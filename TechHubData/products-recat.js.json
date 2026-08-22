@@ -1,0 +1,362 @@
+[
+    {
+      "title": "İşıqlı İdman Maşını Formalı Simsiz Maus",
+      "price": 40.5,
+      "oldPrice": 45,
+      "image": "https://i.pinimg.com/1200x/3a/68/04/3a68041e3e88beeba6ef1244fec8bf3a.jpg",
+      "category": "Maus",
+      "discount": "-10%",
+      "stock": 25
+    },
+    {
+      "title": "Retro Çap Maşını Dizaynlı Simsiz Mexaniki Klaviatura",
+      "price": 157.25,
+      "oldPrice": 185,
+      "image": "https://i.pinimg.com/1200x/2f/6b/f2/2f6bf23c05b87bf70eda1937c0381a87.jpg",
+      "category": "Klaviatura",
+      "discount": "-15%",
+      "stock": 8
+    },
+    {
+      "title": "Dəmir Adam (Iron Man) Maskası Formalı 64GB Fləşkart",
+      "price": 32,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/736x/8d/51/50/8d5150a54f7a5282d879fb62f7ade285.jpg",
+      "category": "Flaş Yaddaş",
+      "discount": null,
+      "stock": 40
+    },
+    {
+      "title": "Piksel Art Ekranlı və Səs Ucaldanlı Smart Stolüstü Saat",
+      "price": 95,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/da/50/e5/da50e5303382f56a240438d9090387eb.jpg",
+      "category": "Aksesuar",
+      "discount": null,
+      "stock": 15
+    },
+    {
+      "title": "Futuristik Şaquli Erqonomik Sağlamlıq Mausu",
+      "price": 85,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/736x/8c/08/21/8c0821dac23326151a523b1a05a74061.jpg",
+      "category": "Maus",
+      "discount": null,
+      "stock": 18
+    },
+    {
+      "title": "Kvant Fizikası Mövzulu Neon İşıqlı Şüşə keys (Sistem Bloku)",
+      "price": 3608,
+      "oldPrice": 4100,
+      "image": "https://i.pinimg.com/736x/59/6c/1c/596c1c18a7935db5d78cc153131655d6.jpg",
+      "category": "Sistem Bloku",
+      "discount": "-12%",
+      "stock": 2
+    },
+    {
+      "title": "Göy Qurşağı İşıqlı Dinamik",
+      "price": 120,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/736x/29/ce/e4/29cee4423e3a2afdfc9d2291986213bb.jpg",
+      "category": "Audio",
+      "discount": null,
+      "stock": 10
+    },
+    {
+      "title": "Mini Mexaniki Klaviatura Düyməsi Formalı Stress Atıcı Fləşkart 32GB",
+      "price": 26.6,
+      "oldPrice": 28,
+      "image": "https://i.pinimg.com/1200x/0f/68/39/0f6839058d86abdd1b4588d4830b99d2.jpg",
+      "category": "Flaş Yaddaş",
+      "discount": "-5%",
+      "stock": 50
+    },
+    {
+      "title": "Şəffaf Korpuslu və Sensorlu Ekranlı RGB Klaviatura",
+      "price": 220.8,
+      "oldPrice": 240,
+      "image": "https://i.pinimg.com/1200x/21/78/28/21782852149a4a1bdda6ec11949adfbc.jpg",
+      "category": "Klaviatura",
+      "discount": "-8%",
+      "stock": 4
+    },
+    {
+      "title": "Avtomatik Fokuslu və Üz İzləyən Süni İntellektli Veb-Kamera",
+      "price": 272.8,
+      "oldPrice": 310,
+      "image": "https://i.pinimg.com/1200x/33/01/f5/3301f5424a7c3bad5288b92fe36e42e9.jpg",
+      "category": "Veb-Kamera",
+      "discount": "-12%",
+      "stock": 7
+    },
+    {
+      "title": "Aviasiya Kabeli ilə Təchiz Olunmuş Spiral Klaviatura Kabeli",
+      "price": 35,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/77/ae/1f/77ae1f9915973c19ef35ae3ac55dee35.jpg",
+      "category": "Aksesuar",
+      "discount": null,
+      "stock": 60
+    },
+    {
+      "title": "Dönər Dönə bilən və Əyilən Qatlanan Portativ Monitor 15.6",
+      "price": 289,
+      "oldPrice": 340,
+      "image": "https://i.pinimg.com/1200x/03/15/7b/03157b565fee6419bb66a16e333c0f24.jpg",
+      "category": "Monitor",
+      "discount": "-15%",
+      "stock": 7
+    },
+    {
+      "title": "Üzərində Havanın Temperaturunu Göstərən Ekranlı Oyun Mausu",
+      "price": 133,
+      "oldPrice": 140,
+      "image": "https://i.pinimg.com/736x/ba/b4/d9/bab4d90debea9d675b0da79657296de6.jpg",
+      "category": "Maus",
+      "discount": "-5%",
+      "stock": 19
+    },
+    {
+      "title": "Qızıl Külçəsi Formalı 128GB USB 3.0 Fləşkart",
+      "price": 39.6,
+      "oldPrice": 45,
+      "image": "https://i.pinimg.com/736x/30/2b/23/302b23da57aabd5f683f67c620844448.jpg",
+      "category": "Flaş Yaddaş",
+      "discount": "-12%",
+      "stock": 30
+    },
+    {
+      "title": "Hologram Proyeksiyalı Virtual Lazer Klaviatura",
+      "price": 104,
+      "oldPrice": 130,
+      "image": "https://i.pinimg.com/736x/a6/cc/d5/a6ccd5d6507e573c8dc6d8b8aafa19de.jpg",
+      "category": "Klaviatura",
+      "discount": "-20%",
+      "stock": 5
+    },
+    {
+      "title": "RGB İşıqlı və Kiçik Soyuduculu Sistem Bloku Stendi",
+      "price": 104.5,
+      "oldPrice": 110,
+      "image": "https://i.pinimg.com/1200x/4e/ad/bf/4eadbf4ff4e926f0204d09e96e18ea56.jpg",
+      "category": "Aksesuar",
+      "discount": "-5%",
+      "stock": 12
+    },
+    {
+      "title": "Kasseta Lentası Görünüşlü Nostaljik 2TB Xarici SSD",
+      "price": 241.8,
+      "oldPrice": 260,
+      "image": "https://i.pinimg.com/1200x/29/76/dd/2976ddb6658aa5f8332d01ab0393119a.jpg",
+      "category": "Daxili Yaddaş",
+      "discount": "-7%",
+      "stock": 14
+    },
+    {
+      "title": "Pişik Pəncəsi Formalı Silikon Yumşaq Mauspad",
+      "price": 25,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/736x/74/7b/bc/747bbc25c897305eafbc363cea589c14.jpg",
+      "category": "Aksesuar",
+      "discount": null,
+      "stock": 85
+    },
+    {
+      "title": "Əl İzlərini Tanıyan Biometrik Təhlükəsizlik Mausu",
+      "price": 103.5,
+      "oldPrice": 115,
+      "image": "https://i.pinimg.com/736x/9a/66/4c/9a664ce23776a730456fb2086a131418.jpg",
+      "category": "Maus",
+      "discount": "-10%",
+      "stock": 9
+    },
+    {
+      "title": "Transformer Robotuna Çevrilən 64GB Yaradıcı Fləşkart",
+      "price": 36.1,
+      "oldPrice": 38,
+      "image": "https://i.pinimg.com/1200x/8c/d0/b5/8cd0b55937a6083351263a15b2c88a57.jpg",
+      "category": "Flaş Yaddaş",
+      "discount": "-5%",
+      "stock": 35
+    },
+    {
+      "title": "Üzərində Səs tənzimləmə Mexaniki Düyməsi Olan Makro Klaviatura",
+      "price": 65,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/75/62/77/756277b0b691d9089f21226b9ccff525.jpg",
+      "category": "Klaviatura",
+      "discount": null,
+      "stock": 22
+    },
+    {
+      "title": "RGB İşıqlı və Səs Səviyyəsinə Görə Rəqs Edən Veb-Kamera",
+      "price": 145,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/ca/2c/fe/ca2cfe50198ca13054668b5550da6814.jpg",
+      "category": "Veb-Kamera",
+      "discount": null,
+      "stock": 16
+    },
+    {
+      "title": "İstilik Göstəricili və Fan Sürəti Monitorlu Maye Soyutma Bloku",
+      "price": 266,
+      "oldPrice": 280,
+      "image": "https://i.pinimg.com/1200x/fc/bf/b1/fcbfb165be5d36e2f41857c5a08990d0.jpg",
+      "category": "Sistem Bloku",
+      "discount": "-5%",
+      "stock": 11
+    },
+    {
+      "title": "Göz Yorğunluğunu Azaldan Sensorlu Monitor Arxası İşıq Paneli",
+      "price": 65,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/c5/44/22/c54422e4cbf866d98c255e7178cfbd73.jpg",
+      "category": "Aksesuar",
+      "discount": null,
+      "stock": 40
+    },
+    {
+      "title": "Gitar Formalı Rok Stilində simli 32GB USB Fləşkart",
+      "price": 24,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/41/51/8d/41518d6e3c5098ffb9fa6d03d32ef7ef.jpg",
+      "category": "Flaş Yaddaş",
+      "discount": null,
+      "stock": 70
+    },
+    {
+      "title": "Maqnitli və Havada Asılı Qalan RGB Stolüstü Dinamik",
+      "price": 178.5,
+      "oldPrice": 210,
+      "image": "https://i.pinimg.com/1200x/fb/ef/7b/fbef7b7fa09fc18fa9d32d66579dfd9e.jpg",
+      "category": "Audio",
+      "discount": "-15%",
+      "stock": 6
+    },
+    {
+      "title": "Ninja Ulti Silahı (Shuriken) Formalı Fırlanan Metal Fləşkart 64GB",
+      "price": 39,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/02/76/84/0276840742cc5d0eb1c85025a74ef6f5.jpg",
+      "category": "Flaş Yaddaş",
+      "discount": null,
+      "stock": 55
+    },
+    {
+      "title": "Həvəskar Strimerlər Üçün LCD Ekranlı İdarəetmə Paneli (Stream Deck)",
+      "price": 285.2,
+      "oldPrice": 310,
+      "image": "https://i.pinimg.com/1200x/91/97/8f/91978f654b423f71cbb66fb240ee9e73.jpg",
+      "category": "Aksesuar",
+      "discount": "-8%",
+      "stock": 14
+    },
+    {
+      "title": "Ulduzlu Səma Proyeksiyalı Gecə İşığı Funksiyalı PC Keys",
+      "price": 1665,
+      "oldPrice": 1850,
+      "image": "https://i.pinimg.com/1200x/2d/ff/c7/2dffc79f9064c483a9918bfd1d6ef259.jpg",
+      "category": "Sistem Bloku",
+      "discount": "-10%",
+      "stock": 5
+    },
+    {
+      "title": "Qədim Misir Hieroqlifləri ilə Bəzədilmiş Custom Klaviatura",
+      "price": 290,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/01/21/53/012153fa289bf597b102927d3509b8b0.jpg",
+      "category": "Klaviatura",
+      "discount": null,
+      "stock": 3
+    },
+    {
+      "title": "Su Keçirməyən və Yuyula Bilən Silikon Elastik Klaviatura",
+      "price": 45,
+      "oldPrice": 50,
+      "image": "https://i.pinimg.com/1200x/f1/ee/39/f1ee39ed4f6ca17bcf2e775a40bbd04b.jpg",
+      "category": "Klaviatura",
+      "discount": "-10%",
+      "stock": 30
+    },
+    {
+      "title": "Masaj Funksiyalı və Bel Dəstəkli RGB Stolüstü Oyun Kreslosu",
+      "price": 408,
+      "oldPrice": 480,
+      "image": "https://i.pinimg.com/1200x/8c/04/41/8c0441df80cbdf6e5828551bdf8231c5.jpg",
+      "category": "Aksesuar",
+      "discount": "-15%",
+      "stock": 8
+    },
+    {
+      "title": "Kiberpank Üslublu Alüminium Zirehli Simsiz Qulaqlıq",
+      "price": 220,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/b2/d1/8a/b2d18aec9cfb81f18579cf6619dfbca0.jpg",
+      "category": "Audio",
+      "discount": null,
+      "stock": 13
+    },
+    {
+      "title": "İçərisinə Su Doldurulan və Ritmə Uyğun Fəvvarə Yaradan Dinamik",
+      "price": 85,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/dd/45/be/dd45bec90928f6424e865f123f114c0a.jpg",
+      "category": "Audio",
+      "discount": null,
+      "stock": 24
+    },
+    {
+      "title": "Mini Soyuducu Formalı USB Masaüstü İçecek Soyuducusu",
+      "price": 57,
+      "oldPrice": 60,
+      "image": "https://i.pinimg.com/1200x/ee/7a/ff/ee7aff06085a1ef0ef6cb3dcc9474771.jpg",
+      "category": "Aksesuar",
+      "discount": "-5%",
+      "stock": 40
+    },
+    {
+      "title": "Havanı Təmizləyən və İonlaşdıran Sensorlu Ağıllı Mauspad",
+      "price": 125,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/57/46/5f/57465f2cb734006fe266ee6eb0f04dbf.jpg",
+      "category": "Aksesuar",
+      "discount": null,
+      "stock": 15
+    },
+    {
+      "title": "Göz Oxşayan Şəffaf Şüşə Dizaynlı NVMe M.2 SSD Korpusu",
+      "price": 63,
+      "oldPrice": 70,
+      "image": "https://i.pinimg.com/1200x/be/99/3b/be993bfdfcf071be9b9369d76fa44b3c.jpg",
+      "category": "Aksesuar",
+      "discount": "-10%",
+      "stock": 33
+    },
+    {
+      "title": "Pultla İdarə Olunan 240Hz Çoxfunksiyalı Əyri Smart Monitor",
+      "price": 1334,
+      "oldPrice": 1450,
+      "image": "https://i.pinimg.com/1200x/df/77/3b/df773bcd28da1fe969bc746df0dfbe61.jpg",
+      "category": "Monitor",
+      "discount": "-8%",
+      "stock": 4
+    },
+    {
+      "title": "Səs Əmrləri ilə Rəngini Dəyişən Ağıllı RGB Masa İşıqlandırması",
+      "price": 90,
+      "oldPrice": null,
+      "image": "https://i.pinimg.com/1200x/b9/7a/df/b97adfab9f5186b51a08da3b067d020d.jpg",
+      "category": "Aksesuar",
+      "discount": null,
+      "stock": 50
+    },
+    {
+      "title": "Şəffaf Kiberpank Dizaynlı 10.000 mAh Powerbank",
+      "price": 67.5,
+      "oldPrice": 75,
+      "image": "https://i.pinimg.com/1200x/90/11/bf/9011bf4397eb2f8dcd6b60767be569fe.jpg",
+      "category": "Aksesuar",
+      "discount": "-10%",
+      "stock": 20
+    }
+  ]
