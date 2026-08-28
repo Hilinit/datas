@@ -18,7 +18,7 @@
     { "id": "meyve", "name": "Meyvəli desertlər", "icon": "🍓", "count": 66, "theme": "berry", "image": "https://i.pinimg.com/1200x/d5/a4/3f/d5a43f3d38895fafb3aad5deba1f48a7.jpg" },
     { "id": "fitnes", "name": "Dietik və Fitnes", "icon": "🥑", "count": 52, "theme": "leaf", "image": "https://i.pinimg.com/736x/b6/4a/44/b64a448e5e696fcf81f8668c4cbf05fb.jpg" },
     { "id": "qis", "name": "Qış tədarükü (Turşular)", "icon": "🫙", "count": 35, "theme": "leaf", "image": "https://i.pinimg.com/736x/29/fd/0e/29fd0e31f240399f56a1c29de032e523.jpg" },
-    { "id": "borek", "name": "Xəmir xörəkləri", "icon": "🥟", "count": 90, "theme": "amber", "image": "https://i.pinimg.com/1200x/b3/7d/9e/b37d9ee0e835c3048746ee7c30b60b0d.jpg" },
+    { "id": "borek", "name": "Böreklər", "icon": "🥟", "count": 90, "theme": "amber", "image": "https://i.pinimg.com/1200x/b3/7d/9e/b37d9ee0e835c3048746ee7c30b60b0d.jpg" },
     { "id": "kofe", "name": "İsti içkilər və Kofe", "icon": "☕", "count": 45, "theme": "clay", "image": "https://i.pinimg.com/736x/f9/ae/11/f9ae118eec5cab705b05289d754a3248.jpg" },
     { "id": "sous", "name": "Souslar və Dadlandırıcılar", "icon": "🏺", "count": 33, "theme": "leaf", "image": "https://i.pinimg.com/1200x/3d/02/6a/3d026a98beb18922c7bb4afe2bbeb313.jpg" },
     { "id": "dondurma", "name": "Dondurmalar", "icon": "🍨", "count": 37, "theme": "berry", "image": "https://i.pinimg.com/1200x/5a/33/98/5a3398063b00d6f081cb54a9b6896f6b.jpg" }
