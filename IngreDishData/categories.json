@@ -15,7 +15,7 @@
     { "id": "pizza", "name": "Pizzalar", "icon": "🍕", "count": 80, "theme": "clay", "image": "https://i.pinimg.com/736x/c6/61/5c/c6615cfc1e05c7649e8ebc228e4d6e94.jpg" },
     { "id": "burger", "name": "Fast Food", "icon": "🍔", "count": 72, "theme": "amber", "image": "https://i.pinimg.com/736x/1a/d3/65/1ad3657775b10dd569eec8425ac21e17.jpg" },
     { "id": "sushi", "name": "Suşilər", "icon": "🍣", "count": 48, "theme": "ocean", "image": "https://i.pinimg.com/1200x/ab/3f/46/ab3f46f167ad35f7117539bd90a8bcf2.jpg" },
-    { "id": "meyve", "name": "Meyvəli desertlər", "icon": "🍓", "count": 66, "theme": "berry", "image": "https://i.pinimg.com/1200x/d5/a4/3f/d5a43f3d38895fafb3aad5deba1f48a7.jpg" },
+    { "id": "meyveli-desertler", "name": "Meyvəli desertlər", "icon": "🍓", "count": 66, "theme": "berry", "image": "https://i.pinimg.com/1200x/d5/a4/3f/d5a43f3d38895fafb3aad5deba1f48a7.jpg" },
     { "id": "fitnes", "name": "Dietik və Fitnes", "icon": "🥑", "count": 52, "theme": "leaf", "image": "https://i.pinimg.com/736x/b6/4a/44/b64a448e5e696fcf81f8668c4cbf05fb.jpg" },
     { "id": "qis", "name": "Qış tədarükü (Turşular)", "icon": "🫙", "count": 35, "theme": "leaf", "image": "https://i.pinimg.com/736x/29/fd/0e/29fd0e31f240399f56a1c29de032e523.jpg" },
     { "id": "borek", "name": "Böreklər", "icon": "🥟", "count": 90, "theme": "amber", "image": "https://i.pinimg.com/1200x/b3/7d/9e/b37d9ee0e835c3048746ee7c30b60b0d.jpg" },
