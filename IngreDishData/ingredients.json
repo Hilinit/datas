@@ -8,11 +8,13 @@
       { "id": "other", "label": "Digər" }
     ],
     "ingredients": [
-      { "id": "toyuq", "name": "Toyuq əti", "emoji": "🍗", "category": "meat" },
+      { "id": "toyuq", "name": "Toyuq əti", "emoji": "🐔", "category": "meat" },
+      { "id": "toyuq-filesi", "name": "Toyuq filesi", "emoji": "🍗", "category": "meat" },
       { "id": "mal", "name": "Mal əti", "emoji": "🥩", "category": "meat" },
       { "id": "quzu", "name": "Quzu əti", "emoji": "🐑", "category": "meat" },
       { "id": "baliq", "name": "Balıq", "emoji": "🐟", "category": "meat" },
       { "id": "ton-baligi", "name": "Ton balığı", "emoji": "🐠", "category": "meat" },
+      { "id": "qizilbaliq", "name": "Qızıl balıq", "emoji": "🐡", "category": "meat" },
       { "id": "krevetka", "name": "Krevetka", "emoji": "🦐", "category": "meat" },
       { "id": "yumurta", "name": "Yumurta", "emoji": "🥚", "category": "meat" },
       { "id": "toyuq-ciy", "name": "Toyuq ciyəri", "emoji": "🫀", "category": "meat" },
