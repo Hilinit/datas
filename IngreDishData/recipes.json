@@ -1738,40 +1738,6 @@
         ]
       },
       {
-        "id": "penne-arrabbiata",
-        "title": "Acılı Penne Arrabbiata",
-        "description": "Sarımsaq, acı bibər və pomidor souslu vegetarian makaronu.",
-        "longDescription": "İtalyan dilində 'əsəbi' mənasını verən Arrabbiata, sarımsaq və acı qırmızı bibərin zeytun yağında aroma buraxması ilə hazırlanan təravətli və acılı sousdur.",
-        "emoji": "🌶️",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1621996346565-e3def6164286",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        "category": "makaron",
-        "categoryName": "makaronlar",
-        "tags": ["Acılı", "Vegetarian", "Tez hazır olan"],
-        "ingredientIds": ["penne", "pomidor", "aci-biber", "sarimsaq", "zeytun-yagi", "reyhan"],
-        "servings": 3,
-        "time": 20,
-        "difficulty": "Asan",
-        "rating": 4.7,
-        "reviewCount": 140,
-        "ingredientsDetailed": [
-          { "name": "Penne (boru) makaron", "amount": 350, "unit": "q" },
-          { "name": "Qabığı soyulub doğranmış pomidor", "amount": 400, "unit": "q" },
-          { "name": "Sarımsaq", "amount": 3, "unit": "diş" },
-          { "name": "Quru acı pul bibər və ya təzə acı bibər", "amount": 1, "unit": "ç.q" },
-          { "name": "Zeytun yağı", "amount": 4, "unit": "x.q" },
-          { "name": "Təzə reyhan yarpaqları", "amount": 5, "unit": "ədəd" }
-        ],
-        "steps": [
-          "Tavada zeytun yağını qızdırıb incə dilimlənmiş sarımsaq və acı bibəri 1 dəqiqə qovurun.",
-          "Doğranmış pomidorları əlavə edin, duz vurub sous qatılaşanadək 12-15 dəqiqə bişirin.",
-          "Penne makaronunu duzlu suda al dente qaynadıb süzün.",
-          "Makaronu pomidorlu acı sousun içinə atıb təzə reyhan yarpaqları ilə qarışdırın.",
-          "İsti halda, istəyə görə üzərinə pendir səpərək təqdim edin."
-        ]
-      },
-      {
         "id": "firin-makaron-pendirli",
         "title": "Sobada Pendirli Qatin Makaron (Mac & Cheese)",
         "description": "Beşamel souslu və bol ərinmiş pendirli soba makaronu.",
