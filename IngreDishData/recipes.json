@@ -624,7 +624,7 @@
         "category": "baliq",
         "categoryName": "balıq yeməkləri",
         "tags": ["Sobada", "Bütöv balıq", "Aralıq dənizi"],
-        "ingredientIds": ["dorado", "limon", "sogan", "pomidor", "zeytun-yagi"],
+        "ingredientIds": ["dorado-baligi", "limon", "sogan", "pomidor", "zeytun-yagi"],
         "servings": 2,
         "time": 35,
         "difficulty": "Asan",
