@@ -814,40 +814,7 @@
           "Tərəvəz salatı və ya kartof püresi ilə isti təqdim edin."
         ]
       },
-      {
-        "id": "merci-sorbasi",
-        "title": "Klassik Qırmızı Mərcimək Şorbası",
-        "description": "Zərif kremli teksturası və limonlu dadı ilə ən sevilən şorba.",
-        "longDescription": "Qırmızı mərcimək, kök, kartof və soğan birgə bişirildikdən sonra blenderlə pürə halına gətirilir. Üzərinə kərə yağında yandırılmış pul bibər və limon suyu əlavə edilərək təqdim olunur.",
-        "emoji": "🥣",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        "category": "sorba",
-        "categoryName": "şorbalar",
-        "tags": ["Kremli", "Tez hazır olan", "Sağlam"],
-        "ingredientIds": ["qirmizi-mercimek", "kok", "kartof", "sogan", "kere-yagi"],
-        "servings": 4,
-        "time": 30,
-        "difficulty": "Asan",
-        "rating": 4.9,
-        "reviewCount": 210,
-        "ingredientsDetailed": [
-          { "name": "Qırmızı mərcimək", "amount": 1, "unit": "stəkan" },
-          { "name": "Baş soğan", "amount": 1, "unit": "ədəd" },
-          { "name": "Kök", "amount": 1, "unit": "ədəd" },
-          { "name": "Kartof", "amount": 1, "unit": "ədəd" },
-          { "name": "Kərə yağı", "amount": 30, "unit": "q" },
-          { "name": "Nane və pul bibər", "amount": 1, "unit": "ç.q" }
-        ],
-        "steps": [
-          "Tərəvəzləri soyub iri kublar şəklində doğrayın.",
-          "Qazanda kərə yağını əridib soğan, kök və kartofu 3 dəqiqə qovurun.",
-          "Yuyulmuş mərciməyi və 5 stəkan isti suyu əlavə edib tərəvəzlər yumşalana qədər bişirin.",
-          "Şorbanı blenderdən keçirərək hamar pürə halına gətirin.",
-          "Üzərinə tavada əridilmiş kərə yağı və quru nanə gəzdirib limonla təqdim edin."
-        ]
-      },
+      
       {
         "id": "toyuq-surbasi-erişte-ile",
         "title": "Əriştəli Toyuq Şorbası",
@@ -1907,40 +1874,7 @@
           "Üzərinə quru nanə, pul bibər və təzə limon suyu gəzdirərək təqdim edin."
         ]
       },
-      {
-        "id": "choban-salati",
-        "title": "Təravətli Çoban Salatı",
-        "description": "Təzə tərəvəzlərdən hazırlanan ən yüngül və təbii veqan salat.",
-        "longDescription": "Pomidor, xiyar, şirin bibər və bol göyərtinin zeytun yağı və limon suyu ilə qovuşması. Vitamin deposu olan təravətləndirici salatdır.",
-        "emoji": "🥗",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        "category": "veqan",
-        "categoryName": "veqan",
-        "tags": ["Veqan", "Yüngül", "Tərəvəzli"],
-        "ingredientIds": ["pomidor", "xiyar", "biber", "goyerti", "zeytun-yagi"],
-        "servings": 4,
-        "time": 15,
-        "difficulty": "Asan",
-        "rating": 4.9,
-        "reviewCount": 180,
-        "ingredientsDetailed": [
-          { "name": "Yetişmiş pomidor", "amount": 3, "unit": "ədəd" },
-          { "name": "Təzə xiyar", "amount": 2, "unit": "ədəd" },
-          { "name": "Şirin yaşıl bibər", "amount": 1, "unit": "ədəd" },
-          { "name": "Qırmızı soğan", "amount": 0.5, "unit": "ədəd" },
-          { "name": "Təzə keşniş, şüyüd və reyhan", "amount": 1, "unit": "dəstə" },
-          { "name": "Zeytun yağı və limon suyu", "amount": 2, "unit": "x.q" }
-        ],
-        "steps": [
-          "Pomidor və xiyarları xırda kublar şəklində doğrayın.",
-          "Bibəri və qırmızı soğanı incə-incə qıyın.",
-          "Təzə göyərtiləri yuyub xırda doğrayın.",
-          "Bütün ərzaqları bir qaba yığıb üzərinə zeytun yağı, limon suyu və duz əlavə edin.",
-          "Yaxşıca qarışdırıb suyunu salmadan təzə-təzə süfrəyə verin."
-        ]
-      },
+     
       {
         "id": "penne-arrabbiata",
         "title": "Acılı Penne Arrabbiata",
@@ -2077,36 +2011,6 @@
         ]
       },
       {
-        "id": "veqan-sebze-qovurmasi",
-        "title": "Veqan tərəvəz qovurması",
-        "description": "Tamamilə bitki əsaslı, rəngarəng və ədviyyatlı qovurma.",
-        "longDescription": "Badımcan, bibər və kartofun bir araya gəldiyi bu qovurma heyvani məhsul olmadan da dolğun dad təcrübəsi yaşadır.",
-        "emoji": "🍆",
-        "theme": "leaf",
-        "image": "/images/recipes/veqan-sebze-qovurmasi.jpg",
-        "category": "veqan",
-        "tags": ["Veqan", "Bitki əsaslı"],
-        "ingredientIds": ["kartof", "badimcan", "biber", "sogan", "sarimsaq"],
-        "servings": 3,
-        "time": 30,
-        "difficulty": "Asan",
-        "rating": 4.5,
-        "reviewCount": 29,
-        "ingredientsDetailed": [
-          { "name": "Badımcan", "amount": 2, "unit": "ədəd" },
-          { "name": "Kartof", "amount": 2, "unit": "ədəd" },
-          { "name": "Bibər", "amount": 2, "unit": "ədəd" },
-          { "name": "Soğan", "amount": 1, "unit": "ədəd" },
-          { "name": "Sarımsaq", "amount": 2, "unit": "diş" }
-        ],
-        "steps": [
-          "Badımcanı kub şəklində doğrayıb duzlayın, 10 dəqiqə saxlayın.",
-          "Kartofu doğrayıb yağda qabaqcadan qızardın.",
-          "Soğan, sarımsaq və bibəri əlavə edib qovurun.",
-          "Badımcanı suyunu sıxıb əlavə edin, qarışdırın.",
-          "Qapağı örtüb az hərarətdə yumşalana qədər bişirin."
-        ]
-      },{
         "id": "veqan-sebze-qovurmasi",
         "title": "Veqan tərəvəz qovurması",
         "description": "Tamamilə bitki əsaslı, rəngarəng və ədviyyatlı qovurma.",
@@ -4175,39 +4079,7 @@
           "Boşqaba xəngəli düzün, üzərinə dağ olunmuş kərə yağı, qiymə və yanında sarımsaqlı qatıq ilə verin."
         ]
       },
-      {
-        "id": "merci-sorbasi-kassik",
-        "title": "İsti Qırmızı Mərcimək Şorbası",
-        "description": "Soyuq havalarda bədəni isitən, ətirli limolu mərcimək çorbası.",
-        "longDescription": "Qırmızı mərcimək, kök, kartof və soğanın birgə bişirilib blenderdən keçirilməsi, üzərinə dağ olunmuş kərə yağı və pul bibər tökülən klasik çorba.",
-        "emoji": "🥣",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1547592180-85f173990554",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        "category": "qis",
-        "categoryName": "qış yeməkləri",
-        "tags": ["Şorba", "Mərcimək", "Sürətli"],
-        "ingredientIds": ["qirmizi-mercimek", "sogan", "kok", "kartof", "kere-yagi", "limon"],
-        "servings": 4,
-        "time": 30,
-        "difficulty": "Çox asan",
-        "rating": 4.8,
-        "reviewCount": 530,
-        "ingredientsDetailed": [
-          { "name": "Qırmızı mərcimək", "amount": 1, "unit": "stəkan" },
-          { "name": "Baş soğan", "amount": 1, "unit": "ədəd" },
-          { "name": "Kök", "amount": 1, "unit": "ədəd" },
-          { "name": "Kartof", "amount": 1, "unit": "ədəd" },
-          { "name": "Kərə yağı", "amount": 50, "unit": "q" },
-          { "name": "Limon", "amount": 0.5, "unit": "ədəd" }
-        ],
-        "steps": [
-          "Soğan, kök və kartofu xırda doğrayıb kərə yağında hafif soteleyin.",
-          "Yuyulmuş mərciməyi və 5 stəkan qaynar suyu əlavə edin, tərəvəzlər yumşalana qədər bişirin.",
-          "Şorbanı blenderdən keçirib pürə halına gətirin.",
-          "Üzərinə dağ kərə yağı, pul bibər və limon suyu əlavə edib isti servis edin."
-        ]
-      },
+   
       {
         "id": "buglama-qoyun-eti",
         "title": "Tərəvəzli Qoyun Əti Buğlaması",
