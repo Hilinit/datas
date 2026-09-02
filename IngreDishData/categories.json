@@ -10,7 +10,6 @@
     { "id": "ickiler", "name": "İçkilər", "icon": "🥤", "count": 40, "theme": "ocean", "image": "https://i.pinimg.com/736x/95/5b/c1/955bc1878eecf5ad27c92ed38c8339a5.jpg" },
     { "id": "seher", "name": "Səhər yeməkləri", "icon": "🍳", "count": 95, "theme": "amber", "image": "https://i.pinimg.com/1200x/b6/3e/d0/b63ed002cb9111caf5934fa2379cdec8.jpg" },
     { "id": "kabab", "name": "Kabablar", "icon": "🍢", "count": 55, "theme": "clay", "image": "https://i.pinimg.com/736x/63/1c/f7/631cf7848b588c7632c655125bc4a70b.jpg" },
-    { "id": "paxlava", "name": "Milli şirniyyatlar", "icon": "🇦🇿", "count": 42, "theme": "berry", "image": "https://i.pinimg.com/1200x/2d/95/42/2d9542fbcf30d89baf3bb8c40256b18b.jpg" },
     { "id": "plov", "name": "Plovlar", "icon": "🍚", "count": 30, "theme": "amber", "image": "https://img.magnific.com/free-photo/traditional-shah-plov-with-dry-fruits-nuts_114579-2472.jpg?semt=ais_hybrid&w=740&q=80" },
     { "id": "pizza", "name": "Pizzalar", "icon": "🍕", "count": 80, "theme": "clay", "image": "https://i.pinimg.com/736x/c6/61/5c/c6615cfc1e05c7649e8ebc228e4d6e94.jpg" },
     { "id": "burger", "name": "Fast Food", "icon": "🍔", "count": 72, "theme": "amber", "image": "https://i.pinimg.com/736x/1a/d3/65/1ad3657775b10dd569eec8425ac21e17.jpg" },

@@ -16,6 +16,10 @@
     { "id": "cekilmis-et", "name": "Qiymə", "emoji": "🥩", "category": "meat" },
     { "id": "quzu", "name": "Quzu əti", "emoji": "🐑", "category": "meat" },
     { "id": "toyuq-doshu", "name": "Toyuq döş əti", "emoji": "🍗", "category": "meat" },
+    { "id": "toyuq-ciy", "name": "Toyuq ciyəri", "emoji": "🫀", "category": "meat" },
+    { "id": "kolbasa", "name": "Kolbasa", "emoji": "🌭", "category": "meat" },
+    { "id": "pepperoni", "name": "Pepperoni", "emoji": "🍕", "category": "meat" },
+
     { "id": "ilan-baligi", "name": "İlan balığı (Unagi)", "emoji": "🐍", "category": "ocean-food" },
     { "id": "ton-baligi", "name": "Ton balığı", "emoji": "🐠", "category": "ocean-food" },
     { "id": "farel-baligi", "name": "Farel balığı", "emoji": "🐠", "category": "ocean-food" },
@@ -28,10 +32,6 @@
     { "id": "dorado-baligi", "name": "Dorado balığı", "emoji": "🐡", "category": "ocean-food" },
     { "id": "krevetka", "name": "Krevetka", "emoji": "🦐", "category": "ocean-food" },
     { "id": "surimi", "name": "Surimi (Krab çubuqları)", "emoji": "🦀", "category": "ocean-food" },
-    { "id": "yumurta", "name": "Yumurta", "emoji": "🥚", "category": "dairy" },
-    { "id": "toyuq-ciy", "name": "Toyuq ciyəri", "emoji": "🫀", "category": "meat" },
-    { "id": "kolbasa", "name": "Kolbasa", "emoji": "🌭", "category": "meat" },
-    { "id": "pepperoni", "name": "Pepperoni", "emoji": "🍕", "category": "meat" },
 
     { "id": "kartof", "name": "Kartof", "emoji": "🥔", "category": "veg" },
     { "id": "pomidor", "name": "Pomidor", "emoji": "🍅", "category": "veg" },
@@ -74,6 +74,7 @@
     { "id": "gorgonzola", "name": "Qorgonzola (Mavi pendir)", "emoji": "🧀", "category": "dairy" },
     { "id": "parmezan", "name": "Parmezan", "emoji": "🧀", "category": "dairy" },
     { "id": "rikkota", "name": "Rikkota pendiri", "emoji": "🧀", "category": "dairy" },
+    { "id": "yumurta", "name": "Yumurta", "emoji": "🥚", "category": "dairy" },
     { "id": "sud", "name": "Süd", "emoji": "🥛", "category": "dairy" },
     { "id": "qatiq", "name": "Qatıq", "emoji": "🍶", "category": "dairy" },
     { "id": "yunan-qatigi", "name": "Yunan qatığı", "emoji": "🍶", "category": "dairy" },
@@ -82,7 +83,7 @@
     { "id": "bismiş-sQusonka", "name": "Bişmiş qatılaşdırılmış süd", "emoji": "🥛", "category": "dairy" },
     { "id": "kesmik", "name": "Kəsmik", "emoji": "🧀", "category": "dairy" },
     { "id": "yag", "name": "Kərə yağı", "emoji": "🧈", "category": "dairy" },
-
+    
     { "id": "makaron", "name": "Makaron", "emoji": "🍝", "category": "other" },
     { "id": "duyu", "name": "Düyü", "emoji": "🍚", "category": "other" },
     { "id": "sushi-duyu", "name": "Suşi düyüsü", "emoji": "🍚", "category": "other" },
