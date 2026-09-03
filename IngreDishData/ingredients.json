@@ -21,11 +21,11 @@
     { "id": "pepperoni", "name": "Pepperoni", "emoji": "🍕", "category": "meat" },
 
     { "id": "ilan-baligi", "name": "İlan balığı (Unagi)", "emoji": "🐍", "category": "ocean-food" },
-    { "id": "ton-baligi", "name": "Ton balığı", "emoji": "🐠", "category": "ocean-food" },
     { "id": "farel-baligi", "name": "Farel balığı", "emoji": "🐠", "category": "ocean-food" },
     { "id": "kutum-baligi", "name": "Kütüm balığı", "emoji": "🐠", "category": "ocean-food" },
     { "id": "naxas-baligi", "name": "Naxa balığı", "emoji": "🐠", "category": "ocean-food" },
     { "id": "tekir-baligi", "name": "Tekir balığı", "emoji": "🐠", "category": "ocean-food" },
+    { "id": "tuna-baligi", "name": "Tuna balığı", "emoji": "🐠", "category": "ocean-food" },
     { "id": "baliq-filesi", "name": "Balıq filesi", "emoji": "🐠", "category": "ocean-food" },
     { "id": "qizilbaliq", "name": "Qızıl balıq (Somon)", "emoji": "🐡", "category": "ocean-food" },
     { "id": "sudak-baligi", "name": "Sudak balığı", "emoji": "🐡", "category": "ocean-food" },
@@ -62,7 +62,7 @@
     { "id": "qaraqat", "name": "Qaraqat", "emoji": "🫐", "category": "veg" },
 
     { "id": "noxud", "name": "Noxud", "emoji": "🫛", "category": "legume" },
-    { "id": "merci", "name": "Mərci", "emoji": "🫘", "category": "legume" },
+    { "id": "qirmizi-mercimek", "name": "Qırmızı Mərcimək", "emoji": "🫘", "category": "legume" },
     { "id": "lobya", "name": "Lobya", "emoji": "🫘", "category": "legume" },
     { "id": "nut", "name": "Yer fındığı", "emoji": "🥜", "category": "legume" },
     { "id": "fistiq-ezmesi", "name": "Fıstıq əzməsi", "emoji": "🥜", "category": "legume" },
