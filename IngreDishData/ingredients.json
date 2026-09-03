@@ -31,7 +31,7 @@
     { "id": "sudak-baligi", "name": "Sudak balığı", "emoji": "🐡", "category": "ocean-food" },
     { "id": "dorado-baligi", "name": "Dorado balığı", "emoji": "🐡", "category": "ocean-food" },
     { "id": "krevetka", "name": "Krevetka", "emoji": "🦐", "category": "ocean-food" },
-    { "id": "surimi", "name": "Surimi (Krab çubuqları)", "emoji": "🦀", "category": "ocean-food" },
+    { "id": "krab", "name": "Krab çubuqları", "emoji": "🦀", "category": "ocean-food" },
 
     { "id": "kartof", "name": "Kartof", "emoji": "🥔", "category": "veg" },
     { "id": "pomidor", "name": "Pomidor", "emoji": "🍅", "category": "veg" },
