@@ -141,191 +141,205 @@
       "Bütün yaş qruplarında əl yumaq vərdişi, uzun saçları bağlamaq və mətbəxdə qaçmamaq kimi sadə qaydalar hər dəfə xatırladılmalıdır. Uşağı tələsdirmədən, səhvlərinə səbirlə yanaşaraq öyrətmək, onun mətbəxə olan marağını uzunmüddətli müsbət vərdişə çevirən ən effektiv yanaşmadır."
     ]
   },
-    {
-      "id": "saglam-qidalanma-5-meslehet",
-      "topic": "Sağlamlıq",
-      "category": "saglamliq",
-      "categoryName": "Sağlamlıq",
-      "title": "Sağlam qidalanma üçün 5 vacib məsləhət",
-      "excerpt": "Gündəlik həyatda az səylə daha sağlam qida vərdişləri necə formalaşdırmaq olar — sadə, tətbiq oluna bilən addımlar.",
-      "emoji": "🥗",
-      "theme": "leaf",
-      "image": "https://i.pinimg.com/1200x/ac/97/fc/ac97fc90eff3b3a72fce89e3929e9cce.jpg",
-      "readMinutes": 5,
-      "date": "2026-05-12",
-      "featured": true,
-      "content": [
-        "Sağlam qidalanma mürəkkəb pəhrizlər və bahalı məhsullar tələb etmir. Çox vaxt bir neçə kiçik vərdiş dəyişikliyi gündəlik enerji səviyyəsinə və ümumi rifaha böyük təsir göstərir.",
-        "Birincisi, hər yeməkdə bir ovuc tərəvəz əlavə etməyə çalışın — bu, kiçik görünsə də, lif və vitamin qəbulunu xeyli artırır. İkincisi, su içməyi unutmayın; bəzən aclıq hissi əslində susuzluqdur.",
-        "Üçüncüsü, hazır qənnadı məhsulları evdə az miqdarda saxlayın, beləliklə impulsiv qəbul azalır. Dördüncüsü, yemək vaxtlarını qabaqcadan planlaşdırmaq qarşısıalınmaz seçimlərin qarşısını alır.",
-        "Sonda, mükəmməlliyi deyil, ardıcıllığı hədəfləyin. Həftədə bir neçə sağlam dəyişiklik uzunmüddətli nəticədə ən böyük fərqi yaradır."
-      ]
-    },
-    {
-      "id": "metbexde-vaxt-qenaeti",
-      "topic": "Mətbəx sirləri",
-      "category": "metbex-sirleri",
-      "categoryName": "Mətbəx Sirləri",
-      "title": "Mətbəxdə vaxta qənaət üçün 7 trük",
-      "excerpt": "Həftəlik yemək planlaması ilə mətbəxdə keçirdiyiniz vaxtı necə yarıbayarı azaltmaq olar.",
-      "emoji": "⏱️",
-      "theme": "amber",
-      "image": "https://i.pinimg.com/1200x/9e/c2/41/9ec241859c702e6e90be6b4c87418df4.jpg",
-      "readMinutes": 10,
-      "date": "2026-05-10",
-      "content": [
-        "Həftə sonu 30 dəqiqəlik planlaşdırma iş günlərində saatlarla vaxta qənaət edə bilər. Əsas tərəvəzləri əvvəlcədən doğramaq və qabda saxlamaq bu prosesin ilk addımıdır.",
-        "İkinci trük: bir dəfəyə iki qat bişirib yarısını dondurucuya qoymaqdır. Beləcə yorucu günlərdə isitmək kifayət edir.",
-        "Üçüncüsü, mətbəx alətlərini tez-tez istifadə etdiyiniz ardıcıllıqla düzün — bu, kiçik görünsə də, hərəkətləri xeyli sürətləndirir.",
-        "Son olaraq, bulaşıqları bişirmə zamanı paralel yumaq vərdişi axşamın sonunda toplanan qabların qarşısını alır."
-      ]
-    },
-    {
-      "id": "usaqlar-saglam-reseptler",
-      "topic": "Resept məsləhətləri",
-      "category": "meslehetler",
-      "categoryName": "Məsləhətlər",
-      "title": "Uşaqlar üçün sağlam reseptlər",
-      "excerpt": "Uşaqların həvəslə yeyəcəyi, gizli tərəvəzli və balanslaşdırılmış yemək ideyaları.",
-      "emoji": "🧒",
-      "theme": "clay",
-      "image": "https://i.pinimg.com/736x/25/2a/a2/252aa252d0fe0454d613fea1239693af.jpg",
-      "readMinutes": 7,
-      "date": "2026-05-08",
-      "content": [
-        "Uşaqları tərəvəzlə barışdırmaq bəzən çətin görünür, amma düzgün təqdimat fərq yaradır. Rəngarəng, kiçik tikələrə bölünmüş qida uşaqlar üçün daha cəlbedici olur.",
-        "Souslara gizlədilmiş pörtlədilmiş tərəvəz pürəsi əlavə etmək — məsələn pomidor sousuna kök və balqabaq qatmaq — dadı dəyişmədən qida dəyərini artırır.",
-        "Uşaqları bişirmə prosesinə qatmaq da maraq yaradan effektiv üsuldur: öz hazırladıqları yeməyi yemək ehtimalı daha yüksəkdir."
-      ]
-    },
-    {
-      "id": "vegetarian-pehriz-faydalari",
-      "topic": "Sağlamlıq",
-      "category": "saglamliq",
-      "categoryName": "Sağlamlıq",
-      "title": "Vegetarian pəhrizinin faydaları",
-      "excerpt": "Bitki əsaslı qidalanmaya keçidin orqanizmə təsirləri və başlanğıc üçün praktik tövsiyələr.",
-      "emoji": "🌱",
-      "theme": "leaf",
-      "image": "https://i.pinimg.com/1200x/29/7b/be/297bbe79eda4e1c22b9b6fcbc40521a4.jpg",
-      "readMinutes": 6,
-      "date": "2026-05-06",
-      "content": [
-        "Bitki əsaslı qidalanmaya keçid tədricən olduqda daha asan mənimsənilir. Həftədə bir-iki ət-siz gün ilə başlamaq real və davamlı bir addımdır.",
-        "Lobya, mərci və noxud kimi paxlalılar protein ehtiyacını qarşılamaqda mal əti və toyuğa əla alternativdir, üstəlik lif baxımından da zəngindir.",
-        "Keçid zamanı dəmir və B12 kimi mikroelementlərə diqqət yetirmək vacibdir — müxtəlif bitki mənbələrini bir araya gətirmək bu çatışmazlığın qarşısını alır."
-      ]
-    },
-    {
-      "id": "qis-ucun-isinici-yemekler",
-      "topic": "Resept məsləhətləri",
-      "category": "meslehetler",
-      "categoryName": "Məsləhətlər",
-      "title": "Qış üçün isidici 6 yemək",
-      "excerpt": "Soyuq günlərdə bədəninizi isidəcək şorba və güveç növləri.",
-      "emoji": "🍲",
-      "theme": "amber",
-      "image": "https://qebulol.az/wp-content/uploads/2025/09/qis55.jpg",
-      "readMinutes": 8,
-      "date": "2026-04-28",
-      "content": [
-        "Soyuq aylarda isti, doyurucu yeməklər həm bədəni isidir, həm də mənəvi rahatlıq verir. Şorbalar bu mövsümün ən praktik seçimidir — bir qazanda hazırlanır, bir neçə gün davam edir.",
-        "Mərcili və kökümsü tərəvəzli şorbalar uzun müddət doyğunluq hissi yaradır. Güveçlər isə yavaş bişirmə prosesi sayəsində dərin dad qatları formalaşdırır.",
-        "İsti içkilərlə (məsələn, zəncəfilli çay) yanaşı belə yeməklər soyuq fəsildə immuniteti dəstəkləməyə də kömək edir."
-      ]
-    },
-    {
-      "id": "protein-zengin-qaynaqlar",
-      "topic": "Sağlamlıq",
-      "category": "saglamliq",
-      "categoryName": "Sağlamlıq",
-      "title": "Protein baxımından zəngin 8 qida qaynağı",
-      "excerpt": "Ət istehlakını azaltmaq istəyənlər üçün alternativ protein mənbələri.",
-      "emoji": "🥚",
-      "theme": "berry",
-      "image": "https://i.pinimg.com/1200x/98/0a/d1/980ad14039c70447aecca17236869ace.jpg",
-      "readMinutes": 6,
-      "date": "2026-04-20",
-      "content": [
-        "Protein təkcə ətdən gəlmir. Yumurta, südlü məhsullar, paxlalılar və düyü kimi qarışıqlar tarazlaşdırılmış protein profili təmin edə bilər.",
-        "Mərci və noxud, xüsusilə düyü ilə birgə istifadə olunduqda, tam aminoasid profili yaradaraq ət əvəzedicisi rolunu uğurla oynayır.",
-        "Pendir və qatıq kimi süd məhsulları isə həm protein, həm kalsium baxımından gündəlik menyuya dəyərli əlavədir."
-      ]
-    },
-    {
-      "id": "baharatlarin-sehirli-dunyesi",
-      "topic": "Mətbəx sirləri",
-      "category": "metbex-sirleri",
-      "categoryName": "Mətbəx Sirləri",
-      "title": "Ədviyyatların sehirli dünyası: Hansı yeməyə hansı ədviyyat?",
-      "excerpt": "Yeməyin dadını sıfırdan zirvəyə qaldıran ədviyyat kombinasiyaları və düzgün istifadə qaydaları.",
-      "emoji": "🌿",
-      "theme": "amber",
-      "image": "https://i.pinimg.com/736x/16/89/8f/16898fe00d4a362cc4a473aebebaf7d9.jpg",
-      "readMinutes": 7,
-      "date": "2026-04-15",
-      "content": [
-        "Mətbəxdə eyni ingredientlərdən tamamilə fərqli dadlar yaratmağın sırrı ədviyyatlarda gizlidir. Ədviyyat düzgün istifadə edildikdə yeməyin təbii ətrini örtmür, əksinə onu üzə çıxarır.",
-        "Məsələn, sarıkök və zəncəfil yalnız toyuq yeməklərinə deyil, tərəvəz çorbalarına da dərin rəng və antioksidant zənginliyi qatır. Koriander (keşniş toxumu) isə paxlalı yeməklərin həzmini asanlaşdırır.",
-        "Ədviyyatları istifadə edərkən ən vacib qayda onları bişirmənin düzgün mərhələsində əlavə etməkdir. Bütöv ədviyyatlar (dənə istiot, darçın çubuğu) yağda qovrularkən ətrini verir, toz ədviyyatlar isə yanmaması üçün bişməyə yaxın qatılmalıdır.",
-        "Sonda unutmayın: ədviyyatlarınızı günəş işığı düşməyən, quru və sərin yerdə saxlasanız, onların ətri və faydalı yağları aylar boyunca ilk günkü kimi təravətli qalacaq."
-      ]
-    },
-    {
-      "id": "seker-asililigindan-qurtulma",
-      "topic": "Sağlamlıq",
-      "category": "saglamliq",
-      "categoryName": "Sağlamlıq",
-      "title": "Şəkər asılılığından təbii yollarla kurtulmanın 4 üsulu",
-      "excerpt": "Gün ərzində şirniyyat krizlərinin qarşısını almaq üçün qanda şəkəri balansı saxlayan qidalanma strategiyaları.",
-      "emoji": "🍯",
-      "theme": "berry",
-      "image": "https://i.pinimg.com/736x/06/13/8a/06138aa873a7e11c40e0161c641b1fcf.jpg",
-      "readMinutes": 8,
-      "date": "2026-04-05",
-      "content": [
-        "Günorta saatlarında qəfil gələn şirniyyat istəyi əksər hallarda iradə zəifliyi deyil, qandakı glükoza səviyyəsinin kəskin düşməsidir. Bu halın qarşısını almaq üçün ilk addım səhər yeməyində zülal və sağlam yağlara üstünlük verməkdir.",
-        "Səhər yeməyində yumurta, avokado və ya az duzlu pendir kimi qidalar qəbul etdikdə, qan şəkəri gün ərzində daha stabil qalır və şirniyyat krizləri minimuma enir.",
-        "İkinci addım rafinə olunmuş şəkəri təbii şirinliklərlə əvəzləməkdir. Darçın səpilmiş alma dilimləri, bir neçə ədəd xurma və ya giləmeyvələr həm şirinlik ehtiyacını ödəyir, həm də lif sayəsində həzmi ləngidir.",
-        "Eyni zamanda, kifayət qədər su içməmək də beynə 'aclıq' və ya 'şəkər ehtiyacı' siqnalı göndərə bilər. Hər şirniyyat istəyi gəldikdə əvvəlcə bir böyük stəkan su içib 10 dəqiqə gözləmək çox vaxt bu istəyi yatızdırır."
-      ]
-    },
-    {
-      "id": "evde-qatiq-ve-corek-hazirlanmasi",
-      "topic": "Mətbəx sirləri",
-      "category": "metbex-sirleri",
-      "categoryName": "Mətbəx Sirləri",
-      "title": "Evdə maya istifadə etmədən təbii çörək və qatıq",
-      "excerpt": "Süfrənizə təbii və qatqısız lezzətlər gətirmək üçün addım-addım ev hazırlığı bələdçisi.",
-      "emoji": "🍞",
-      "theme": "amber",
-      "image": "https://i.pinimg.com/736x/07/9a/dc/079adc98e81054e027b18f3eb6e75f98.jpg",
-      "readMinutes": 9,
-      "date": "2026-03-28",
-      "content": [
-        "Marketlərdən aldığımız hazır qida məhsullarının tərkibindəki qatqı maddələri artdıqca, evdə təbii hazırlanan qidalara tələbat daha da çoxalır. Ən sadə ingredientlərlə mükəmməl çörək və qatıq hazırlamaq düşündüyünüzdən daha asandır.",
-        "Ev qatığı hazırlayarkən sütün temperaturu kritik rola malikdir. Südi qaynatdıqdan sonra sərçə barmağınızı 7 saniyə içində saxlayacaq istiliyə (təxminən 42-45°C) qədər soyudub, bir qaşıq təbii maya ilə çalxalamaq ideal bərk qatıq almağın sirridir.",
-        "Çörək hazırlığında isə uzunmüddətli fermentasiya həzm üçün inanılmaz dərəcədə faydalıdır. Mayasız, sadəcə un, su və az miqdarda qatıq suyu ilə hazırlanan xəmir 12 saat dincəldikdə həm möhtəşəm faktura qazanır, həm də gluteni parçalayaraq mədəni yormur.",
-        "Evdə hazırlanan bu təbii qidalar həm bağırsaq mikrobiomunu dəstəkləyir, həm də evinizə misilsiz bir qoxu və istilik bəxş edir."
-      ]
-    },
-    {
-      "id": "fermentasiya-olunmus-qidalar",
-      "topic": "Sağlamlıq",
-      "category": "saglamliq",
-      "categoryName": "Sağlamlıq",
-      "title": "Bağırsaq dostu: Fermentasiya olunmuş qidaların gücü",
-      "excerpt": "Turşu, kimçi və kombuça kimi probiotik zəngini qidaların immunitetə və həzmə möcüzəvi təsirləri.",
-      "emoji": "🫙",
-      "theme": "leaf",
-      "image": "https://i.pinimg.com/1200x/a0/a8/82/a0a8820fa768f64bb06ae974b1aee09e.jpg",
-      "readMinutes": 7,
-      "date": "2026-03-18",
-      "content": [
-        "Müasir tibb bağırsaqları 'ikinci beyin' adlandırır və həzm sisteminin sağlamlığı birbaşa immunitetimizdən əhval-ruhiyyəmizə kadar hər şeyə təsir edir. Fermentasiya olunmuş qidalar isə bu sistemin en böyük köməkçiləridir.",
-        "Ev üsulu ilə hazırlanmış duzlu turşular, kefir və kombuça canlı probiotik bakteriyalarla zəngindir. Bu faydalı bakteriyalar bağırsaq florasını bərpa edir və zərərli mikroorqanizmlərin çoğalmasının qarşısını alır.",
-        "Gündəlik menyunuza cəmi 1-2 xörək qaşığı ev turşusu və ya bir stəkan təbii kefir əlavə etmək həzm problemlərini, köpü və halsızlığı nəzərəçarpan dərəcədə azaldır.",
-        "Qeyd etmək lazımdır ki, sirkə və pasterizasiya olunmuş hazır market turşuları bu faydalı bakteriyaları ehtiva etmir; buna görə də ən yaxşı seçim ənənəvi duzlu su fermentasiyasına üstünlük verməkdir."
-      ]
-    }
+  {
+    "id": "saglam-qidalanma-5-meslehet",
+    "topic": "Sağlamlıq",
+    "category": "saglamliq",
+    "categoryName": "Sağlamlıq",
+    "title": "Sağlam qidalanma üçün 5 vacib məsləhət",
+    "excerpt": "Gündəlik həyatda az səylə daha sağlam qida vərdişləri necə formalaşdırmaq olar — sadə, tətbiq oluna bilən addımlar.",
+    "emoji": "🥗",
+    "theme": "leaf",
+    "image": "https://i.pinimg.com/1200x/ac/97/fc/ac97fc90eff3b3a72fce89e3929e9cce.jpg",
+    "readMinutes": 5,
+    "date": "2026-05-12",
+    "featured": true,
+    "content": [
+      "Sağlam qidalanma haqqında düşünəndə bir çoxumuzun ağlına dərhal mürəkkəb pəhrizlər, bahalı 'superfood'lar və ciddi məhrumiyyətlər gəlir. Əslində isə həqiqət tamamilə fərqlidir: gündəlik həyatda edilən bir neçə kiçik, davamlı vərdiş dəyişikliyi enerji səviyyəsinə, əhval-ruhiyyəyə və ümumi rifaha kəskin pəhrizlərdən qat-qat böyük və uzunömürlü təsir göstərir. Bu yazıda mürəkkəb qaydalar deyil, real həyatda tətbiq oluna bilən beş sadə prinsipi nəzərdən keçirəcəyik.",
+      "Birinci və bəlkə də ən vacib addım — hər əsas yeməkdə bir ovuc təzə tərəvəz əlavə etməyə çalışmaqdır. Bu, kiçik və əhəmiyyətsiz görünsə də, gündəlik lif, vitamin və mineral qəbulunu xeyli artırır, üstəlik boşqabı doldurduğu üçün daha az miqdarda kalorili qidaya ehtiyac yaranır. İkinci addım isə suya diqqət yetirməkdir — bədən çox vaxt susuzluq hissini aclıqla qarışdırır, buna görə iştahanın qəfil güclənməsi zamanı əvvəlcə bir stəkan su içib bir neçə dəqiqə gözləmək faydalıdır.",
+      "Üçüncü tövsiyə evin mühitini nəzarətə götürməkdir: hazır qənnadı və çərəz növü məhsulları evdə minimum miqdarda saxlamaq, gecə saatlarında yaranan impulsiv qəbulun qarşısını əhəmiyyətli dərəcədə azaldır. İnsan psixologiyası əlçatan olan şeyi daha çox istehlak etməyə meyllidir, buna görə sağlam alternativləri gözə görünən yerlərdə saxlamaq, zərərli olanları isə uzaqda tutmaq sadə, amma güclü bir strategiyadır.",
+      "Dördüncü addım isə planlaşdırmadır. Həftənin əvvəlində əsas yemək vaxtlarını qabaqcadan qeyd etmək, ac qarına, tələsik verilən 'nə olsa yeyərəm' qərarlarının qarşısını alır — məhz belə qərarlar çox vaxt ən az sağlam seçimlərə gətirib çıxarır. Beşincisi isə bəlkə də ən vacibi: mükəmməlliyi deyil, ardıcıllığı hədəf almaqdır. Bir günlük 'səhv' yemək bütün səyi puça çıxarmır, əsl fərqi həftələr və aylar boyu təkrarlanan kiçik, davamlı seçimlər yaradır.",
+      "Sonda unutmamaq lazımdır ki, sağlam qidalanma bir mənzil deyil, davam edən bir səyahətdir. Özünüzü tənqid etmək əvəzinə, hər kiçik müsbət addımı qeyd etmək və bu addımlar üzərində irəliləmək, uzunmüddətli nəticədə ən dayanıqlı və real dəyişikliyi yaradan yanaşmadır."
+    ]
+  },
+  {
+    "id": "metbexde-vaxt-qenaeti",
+    "topic": "Mətbəx sirləri",
+    "category": "metbex-sirleri",
+    "categoryName": "Mətbəx Sirləri",
+    "title": "Mətbəxdə vaxta qənaət üçün 7 trük",
+    "excerpt": "Həftəlik yemək planlaması ilə mətbəxdə keçirdiyiniz vaxtı necə yarıbayarı azaltmaq olar.",
+    "emoji": "⏱️",
+    "theme": "amber",
+    "image": "https://i.pinimg.com/1200x/9e/c2/41/9ec241859c702e6e90be6b4c87418df4.jpg",
+    "readMinutes": 10,
+    "date": "2026-05-10",
+    "content": [
+      "Məşğul gündəlik ritmdə mətbəxdə keçirilən vaxt çox vaxt ən çox şikayət edilən məsələlərdən biridir. Yaxşı xəbər budur ki, bir neçə strukturlaşdırılmış vərdişlə bu vaxtı yarıbayarı, hətta daha çox azaltmaq mümkündür — bunun üçün mətbəx bacarıqlarını deyil, sadəcə təşkilatçılıq yanaşmasını dəyişmək kifayətdir.",
+      "Birinci və ən effektiv trük həftə sonu 20-30 dəqiqəlik planlaşdırma seansı ayırmaqdır. Bu qısa müddət ərzində həftənin əsas yeməklərini qeyd etmək, lazımi ingredientləri siyahıya almaq, iş günlərində 'bu axşam nə bişirim' sualının yaratdığı stresi tamamilə aradan qaldırır. İkinci addım isə əsas tərəvəzləri əvvəlcədən doğrayıb hava keçirməyən qablarda saxlamaqdır — bu, hər axşam təkrarlanan doğrama prosesini bir dəfəyə endirir.",
+      "Üçüncü trük 'ikiqat bişirmə' prinsipidir: bir yeməyi hazırlayarkən adətdən iki qat miqdarda bişirib yarısını dondurucuya qoymaq, yorucu günlərdə sadəcə isitmə ilə kifayətlənməyə imkan verir. Dördüncüsü, mətbəx alətlərini və ingredientləri istifadə tezliyinə görə əlçatan yerlərdə düzmək — məsələn, ən çox istifadə olunan bıçaq və kəsmə lövhəsini əl altında saxlamaq — kiçik görünsə də, gündəlik hərəkətləri xeyli sürətləndirir.",
+      "Beşinci addım bişirmə zamanı paralel iş görməkdir: sous bişərkən eyni zamanda salat hazırlamaq və ya suyun qaynamasını gözləyərkən qabları yumaq, ümumi mətbəx vaxtını əhəmiyyətli dərəcədə qısaldır. Altıncı trük isə 'bir dəfə tözü, çox dəfə istifadə et' prinsipidir — məsələn, bir dəfəyə böyük miqdarda soğan-sarımsaq qızartması hazırlayıb porsiyalara bölərək dondurmaq, gələcək bir çox yeməyin əsasını bir neçə saniyəyə hazır edir.",
+      "Yeddinci və son trük isə bulaşıq prosesini bişirmə zamanı paralel aparmaqdır — istifadə edilmiş qabları dərhal yumaq və ya isladıcı suya qoymaq, axşamın sonunda toplanan böyük bulaşıq yığınının qarşısını alır və mətbəxdən çıxarkən hər dəfə təmiz bir mühitlə üzləşməyə imkan verir. Bu yeddi trükün birgə tətbiqi mətbəxdəki gündəlik vaxtı sistemli şəkildə azaldan, sürdürülə bilən bir vərdişə çevrilir."
+    ]
+  },
+  {
+    "id": "usaqlar-saglam-reseptler",
+    "topic": "Resept məsləhətləri",
+    "category": "meslehetler",
+    "categoryName": "Məsləhətlər",
+    "title": "Uşaqlar üçün sağlam reseptlər",
+    "excerpt": "Uşaqların həvəslə yeyəcəyi, gizli tərəvəzli və balanslaşdırılmış yemək ideyaları.",
+    "emoji": "🧒",
+    "theme": "clay",
+    "image": "https://i.pinimg.com/736x/25/2a/a2/252aa252d0fe0454d613fea1239693af.jpg",
+    "readMinutes": 7,
+    "date": "2026-05-08",
+    "content": [
+      "Uşaqları tərəvəzlə barışdırmaq valideynlər üçün tez-tez qarşılaşılan bir çətinlikdir. Uşaqların dad reseptorları böyüklərdən daha həssas olduğu üçün acı və ya qeyri-adi tekstura daşıyan qidalara instinktiv müqavimət göstərmələri, əslində normal inkişaf mərhələsinin bir hissəsidir. Buna görə düzgün təqdimat və yaradıcı yanaşma, məcburiyyətdən qat-qat effektiv nəticə verir.",
+      "Rəngarəng və kiçik, əlverişli tikələrə bölünmüş qida uşaqlar üçün daha cəlbedici görünür — məsələn, tərəvəzləri əyləncəli formalara kəsmək və ya rəngli boşqabda müxtəlif tərəvəz növlərini bir arada təqdim etmək, sadəcə görüntü ilə iştahanı artıra bilər. Uşaqlar həmçinin özləri seçim etdikləri zaman daha həvəsli olurlar, buna görə iki-üç sağlam variant arasından seçim təklif etmək, tamamilə yeni bir qidanı məcburən yedirtməkdən daha uğurlu nəticə verir.",
+      "Souslara gizlədilmiş pörtlədilmiş tərəvəz pürəsi əlavə etmək effektiv, sınanmış üsullardan biridir — məsələn, pomidor sousuna kök, balqabaq və ya hətta ispanaq qatmaq, dadı əhəmiyyətli dərəcədə dəyişmədən qida dəyərini kəskin artırır. Eyni prinsip smoothie-lərə, köftə xəmirinə və hətta bişirilmiş dessertlərə də tətbiq oluna bilər — nəticədə uşaq sevdiyi dadı itirmədən əlavə vitamin və lif qəbul edir.",
+      "Uşaqları bişirmə prosesinə qatmaq isə bəlkə də ən güclü psixoloji üsuldur: öz əlləri ilə hazırladıqları yeməyi yemə ehtimalı əhəmiyyətli dərəcədə yüksəkdir, çünki bu, onlara sahiblik və nailiyyət hissi verir. Sadə tapşırıqlar — ingredientləri qarışdırmaq, tərəvəzləri yumaq və ya süfrəni bəzəmək — uşağı prosesin bir hissəsinə çevirir və yeməyə qarşı marağını artırır.",
+      "Nəhayət, ardıcıllıq və səbir bu prosesin açar sözləridir. Bir tərəvəzi ilk dəfə rədd edən uşaq, bir neçə dəfə fərqli formada təqdim edildikdən sonra onu qəbul edə bilər — tədqiqatlar göstərir ki, yeni bir dadı qəbul etmək üçün uşağa orta hesabla bir neçə dəfə təkrar təqdimat lazım ola bilər, buna görə ilk rədd cavabından sonra pes etməmək vacibdir."
+    ]
+  },
+  {
+    "id": "vegetarian-pehriz-faydalari",
+    "topic": "Sağlamlıq",
+    "category": "saglamliq",
+    "categoryName": "Sağlamlıq",
+    "title": "Vegetarian pəhrizinin faydaları",
+    "excerpt": "Bitki əsaslı qidalanmaya keçidin orqanizmə təsirləri və başlanğıc üçün praktik tövsiyələr.",
+    "emoji": "🌱",
+    "theme": "leaf",
+    "image": "https://i.pinimg.com/1200x/29/7b/be/297bbe79eda4e1c22b9b6fcbc40521a4.jpg",
+    "readMinutes": 6,
+    "date": "2026-05-06",
+    "content": [
+      "Bitki əsaslı qidalanmaya maraq son illərdə həm sağlamlıq, həm də ətraf mühit səbəbləri ilə əhəmiyyətli dərəcədə artmışdır. Lakin bir çox insan bu keçidi ya hamısı, ya heç nə prinsipi ilə düşünərək çətinləşdirir, halbuki tədqiqatlar göstərir ki, tədricən keçid həm daha asan mənimsənilir, həm də daha davamlı nəticə verir.",
+      "Həftədə bir-iki ət-siz gün ilə başlamaq real, əldə edilə bilən və psixoloji baxımdan az təzyiq yaradan bir addımdır. Bu yanaşma orqanizmə tədricən yeni qidalanma nümunələrinə alışmaq imkanı verir, eyni zamanda kəskin dəyişikliyin yaratdığı 'geri qayıtma' riskini azaldır. Vaxt keçdikcə bu ət-siz günlərin sayını tədricən artırmaq mümkündür.",
+      "Lobya, mərci və noxud kimi paxlalılar protein ehtiyacını qarşılamaqda mal əti və toyuğa əla alternativdir, üstəlik lif, dəmir və maqnezium baxımından da zəngindir. Bu qidalar həmçinin aşağı qiymətə malik olduğu üçün büdcə baxımından da sərfəli seçimdir — bir paket quru mərci, ekvivalent miqdarda ətdən qat-qat ucuz başa gəlir, amma bənzər qida dəyəri təmin edir.",
+      "Keçid zamanı dəmir və B12 kimi mikroelementlərə xüsusi diqqət yetirmək vacibdir, çünki bu elementlər ənənəvi olaraq heyvan mənşəli qidalarda daha çox olur. Müxtəlif bitki mənbələrini bir araya gətirmək — məsələn dəmir üçün ispanaq və mərcini C vitamini zəngin qidalarla birgə qəbul etmək — bu çatışmazlığın qarşısını əhəmiyyətli dərəcədə alır. B12 üçün isə zənginləşdirilmiş qidalar və ya əlavələr nəzərdən keçirilə bilər.",
+      "Tədqiqatlar həmçinin göstərir ki, balanslaşdırılmış bitki əsaslı qidalanma ürək-damar xəstəlikləri riskinin azalması, çəki idarəetməsinin asanlaşması və həzm sisteminin ümumi sağlamlığının yaxşılaşması ilə əlaqələndirilir. Əsas şərt isə balansdır — sadəcə ət çıxarmaq kifayət etmir, əvəzinə çeşidli, qida dəyəri yüksək bitki mənşəli qidalarla menyunu zənginləşdirmək lazımdır."
+    ]
+  },
+  {
+    "id": "qis-ucun-isinici-yemekler",
+    "topic": "Resept məsləhətləri",
+    "category": "meslehetler",
+    "categoryName": "Məsləhətlər",
+    "title": "Qış üçün isidici 6 yemək",
+    "excerpt": "Soyuq günlərdə bədəninizi isidəcək şorba və güveç növləri.",
+    "emoji": "🍲",
+    "theme": "amber",
+    "image": "https://qebulol.az/wp-content/uploads/2025/09/qis55.jpg",
+    "readMinutes": 8,
+    "date": "2026-04-28",
+    "content": [
+      "Soyuq aylar gəldikdə isti, doyurucu yeməklərə olan istək sadəcə damaq zövqü deyil, həm də bədənin təbii bir ehtiyacıdır. Bu tip yeməklər həm fiziki olaraq bədəni isidir, həm də psixoloji rahatlıq və 'ev hissi' yaradır ki, bu da qış aylarında əhval-ruhiyyəni dəstəkləyən vacib amillərdən biridir.",
+      "Şorbalar bu mövsümün ən praktik və çoxfunksiyalı seçimidir — bir qazanda hazırlanır, minimal təmizlik tələb edir və adətən bir neçə gün ərzində keyfiyyətini itirmədən saxlanıla bilir. Üstəlik şorbalar çevik bir formatdır: soyuducuda qalan demək olar ki, istənilən tərəvəz və zülal mənbəyini bir qaba əlavə edərək dəyərli, israfsız bir yemək hazırlamaq mümkündür.",
+      "Mərcili və kökümsü tərəvəzli (kök, kartof, şalgam) şorbalar xüsusilə uzun müddət doyğunluq hissi yaradır, çünki bu ingredientlər həm mürəkkəb karbohidrat, həm də lif baxımından zəngindir. Güveçlər isə fərqli bir mexanizmlə fəaliyyət göstərir — yavaş, aşağı temperaturda uzun müddət bişirmə prosesi ət və tərəvəzlərin dad birləşmələrinin dərinləşməsinə və bir-birinə qarışmasına imkan verir, nəticədə şorbadan daha qatı, daha 'dolu' bir dad profili yaranır.",
+      "İsti içkilərlə — məsələn zəncəfilli-limonlu çay və ya darçınlı süd — yanaşı belə yeməklər soyuq fəsildə immuniteti dəstəkləməyə də kömək edir, çünki zəncəfil, sarımsaq və soğan kimi ingredientlərin təbii antibakterial və iltihab əleyhinə xüsusiyyətləri var. Bu ingredientləri şorba və güveçlərin əsasına daxil etmək, sadəcə dadı zənginləşdirmir, eyni zamanda funksional fayda da qatır.",
+      "Qış yeməklərini həftəlik menyuya daxil edərkən müxtəlifliyi qorumaq da vacibdir — məsələn bir həftə mərcili şorba, digər həftə toyuq güveci, başqa birində isə tərəvəz əsaslı qatı şorba hazırlamaq, eyni yemək kateqoriyası daxilində belə monotonluğun qarşısını alır və ailənin hər üzvünün sevdiyi bir variantı tapmasına şərait yaradır."
+    ]
+  },
+  {
+    "id": "protein-zengin-qaynaqlar",
+    "topic": "Sağlamlıq",
+    "category": "saglamliq",
+    "categoryName": "Sağlamlıq",
+    "title": "Protein baxımından zəngin 8 qida qaynağı",
+    "excerpt": "Ət istehlakını azaltmaq istəyənlər üçün alternativ protein mənbələri.",
+    "emoji": "🥚",
+    "theme": "berry",
+    "image": "https://i.pinimg.com/1200x/98/0a/d1/980ad14039c70447aecca17236869ace.jpg",
+    "readMinutes": 6,
+    "date": "2026-04-20",
+    "content": [
+      "Protein deyildikdə əksər insanların ağlına ilk növbədə qırmızı ət və toyuq gəlir, amma bu təsəvvür qida elmi baxımından yarımçıqdır. Protein təkcə ətdən gəlmir — yumurta, südlü məhsullar, paxlalılar və müxtəlif taxıl növləri düzgün kombinasiyada istifadə edildikdə, ənənəvi ət mənbələrinə heç də geri qalmayan, tarazlaşdırılmış protein profili təmin edə bilər.",
+      "Yumurta protein keyfiyyəti baxımından 'qızıl standart' sayılır, çünki tərkibindəki aminoasid profili orqanizmin ehtiyacına demək olar ki, tam uyğun gəlir. Bir yumurtada təxminən 6 qram yüksək keyfiyyətli protein var, üstəlik hazırlanması sürətli və çoxfunksiyalıdır — qaynadılmış, qızardılmış və ya omlet formasında hər öyünə asanlıqla inteqrasiya oluna bilər.",
+      "Mərci və noxud, xüsusilə düyü kimi taxıllarla birgə istifadə olunduqda, 'tamamlayıcı protein' prinsipi işə düşür — hər bir bitki mənşəli qidanın əskik olduğu aminoasidləri digəri tamamlayır və nəticədə tam aminoasid profili yaranır. Bu kombinasiya ət əvəzedicisi rolunu uğurla oynayır, üstəlik xeyli aşağı qiymətə başa gəlir və lif baxımından da zəngindir ki, bu da ətdə olmayan əlavə bir üstünlükdür.",
+      "Pendir və qatıq kimi süd məhsulları isə həm protein, həm kalsium baxımından gündəlik menyuya dəyərli əlavədir. Xüsusilə yunan qatığı adi qatığa nisbətən iki qat daha çox protein tərkibinə malikdir, bu da onu səhər yeməyi və ya qəlyanaltı üçün çox effektiv seçimə çevirir. Kəsmik pendiri də bənzər şəkildə yüksək protein sıxlığına malikdir.",
+      "Digər dəyərli mənbələr sırasına ədəs, noxud unu, kinoa, tofu, badam və günəbaxan toxumu daxildir. Bu qidaları müxtəlif kombinasiyalarda gündəlik yeməklərə daxil etmək, ət istehlakını azaltmaq istəyən, lakin protein ehtiyacını itirmək istəməyən insanlar üçün praktik, davamlı və büdcə baxımından da sərfəli bir yol təqdim edir."
+    ]
+  },
+  {
+    "id": "baharatlarin-sehirli-dunyesi",
+    "topic": "Mətbəx sirləri",
+    "category": "metbex-sirleri",
+    "categoryName": "Mətbəx Sirləri",
+    "title": "Ədviyyatların sehirli dünyası: Hansı yeməyə hansı ədviyyat?",
+    "excerpt": "Yeməyin dadını sıfırdan zirvəyə qaldıran ədviyyat kombinasiyaları və düzgün istifadə qaydaları.",
+    "emoji": "🌿",
+    "theme": "amber",
+    "image": "https://i.pinimg.com/736x/16/89/8f/16898fe00d4a362cc4a473aebebaf7d9.jpg",
+    "readMinutes": 7,
+    "date": "2026-04-15",
+    "content": [
+      "Mətbəxdə eyni əsas ingredientlərdən tamamilə fərqli mətbəx mədəniyyətlərinə xas dadlar yaratmağın sırrı böyük ölçüdə ədviyyatlarda gizlidir. Bir toyuq döşü hind ədviyyatları ilə tamamilə fərqli, Aralıq dənizi ədviyyatları ilə isə tamamilə başqa bir yemək halına gələ bilər — dəyişən əsas ingredient deyil, ona qatılan ədviyyat kombinasiyasıdır. Ədviyyat düzgün istifadə edildikdə yeməyin təbii ətrini örtmür, əksinə onu üzə çıxarır və dərinləşdirir.",
+      "Məsələn, sarıkök və zəncəfil yalnız toyuq yeməklərinə deyil, tərəvəz çorbalarına, hətta içkilərə də dərin rəng, isti dad notu və antioksidant zənginliyi qatır. Zirə isə xüsusilə paxlalı yeməklərdə və çobanyastığı əsaslı souslarda torpaqvari, isti bir dərinlik yaradır. Koriander toxumu (keşniş toxumu) isə paxlalı yeməklərin həzmini asanlaşdıran təbii xüsusiyyətə malikdir, buna görə mərci və noxud yeməklərində ənənəvi olaraq geniş istifadə olunur.",
+      "Darçın və hil kimi 'isti' ədviyyatlar əksər insanlar tərəfindən yalnız şirniyyatlarla əlaqələndirilsə də, bir çox mətbəx mədəniyyətində ət güveclərinə və pilov növlərinə də əlavə olunur və nəticədə şirin-acı bir dad kontrastı yaradır ki, bu da yeməyi daha kompleks və yaddaqalan edir. Bu cür qeyri-adi kombinasiyaları sınamaqdan çəkinməmək, mətbəxdə yaradıcılığı əhəmiyyətli dərəcədə artırır.",
+      "Ədviyyatları istifadə edərkən ən vacib qayda onları bişirmənin düzgün mərhələsində əlavə etməkdir. Bütöv ədviyyatlar (dənə istiot, darçın çubuğu, dəfnə yarpağı) yağda az müddət qovrularkən ətir yağlarını buraxaraq bütün yeməyə yayılır, bu proses adətən 'temperlemə' adlanır. Toz ədviyyatlar isə daha həssasdır və yüksək istilikdə uzun müddət qaldıqda tez yanaraq acı dad verə bilər, buna görə bişirmənin sonuna yaxın əlavə edilməsi daha etibarlıdır.",
+      "Sonda unutmayın: ədviyyatlarınızı günəş işığı düşməyən, quru və sərin bir şkafda, mümkünsə hava keçirməyən qablarda saxlasanız, onların ətri və faydalı uçucu yağları aylar boyunca ilk günkü kimi təravətli qalacaq. Toz ədviyyatların ətri zamanla sürətlə itdiyi üçün, mümkün olduqda bütöv ədviyyatı alıb istifadədən qısa müddət əvvəl özünüz üyütmək, ən intensiv və təzə dadı təmin edən üsuldur."
+    ]
+  },
+  {
+    "id": "seker-asililigindan-qurtulma",
+    "topic": "Sağlamlıq",
+    "category": "saglamliq",
+    "categoryName": "Sağlamlıq",
+    "title": "Şəkər asılılığından təbii yollarla kurtulmanın 4 üsulu",
+    "excerpt": "Gün ərzində şirniyyat krizlərinin qarşısını almaq üçün qanda şəkəri balansı saxlayan qidalanma strategiyaları.",
+    "emoji": "🍯",
+    "theme": "berry",
+    "image": "https://i.pinimg.com/736x/06/13/8a/06138aa873a7e11c40e0161c641b1fcf.jpg",
+    "readMinutes": 8,
+    "date": "2026-04-05",
+    "content": [
+      "Günorta saatlarında qəfil gələn güclü şirniyyat istəyi əksər hallarda iradə zəifliyi ilə deyil, tamamilə bioloji bir səbəblə — qandakı glükoza səviyyəsinin kəskin düşməsi ilə əlaqədardır. Bədən bu düşüşə tez enerji mənbəyi tələb edərək cavab verir, ən sürətli mənbə isə adətən şəkərli qidalardır. Bu döngünü qırmağın açarı, qan şəkərini gün boyu daha sabit səviyyədə saxlamaqdır.",
+      "İlk addım səhər yeməyində zülal və sağlam yağlara üstünlük verməkdir. Yumurta, avokado və ya az duzlu pendir kimi qidalar qəbul etdikdə, bu makronutrientlər həzm prosesini yavaşladaraq qanda şəkərin tədricən, sıçrayışsız artmasını təmin edir. Nəticədə gün ərzində enerji səviyyəsi daha sabit qalır və şirniyyat krizləri əhəmiyyətli dərəcədə minimuma enir — sadəcə bir yağlı çörək və ya şirin dənli qəlyanaltı əvəzinə zülal əsaslı səhər yeməyi seçmək bu baxımdan böyük fərq yaradır.",
+      "İkinci addım rafinə olunmuş şəkəri təbii şirinliklərlə tədricən əvəzləməkdir. Darçın səpilmiş alma dilimləri, bir neçə ədəd xurma və ya giləmeyvələr həm şirinlik ehtiyacını ödəyir, həm də tərkiblərindəki lif sayəsində şəkərin qana daha yavaş sızmasını təmin edir. Bu, beyinə eyni məmnuniyyət siqnalını göndərir, lakin qan şəkərində eyni kəskin sıçrayış-düşüş dövranını yaratmır.",
+      "Üçüncü faktor isə çox vaxt nəzərdən qaçırılan bir məsələdir — kifayət qədər su içməmək beynə 'aclıq' və ya 'şəkər ehtiyacı' siqnalı göndərə bilər, çünki susuzluq və aclıq hissi beyində bənzər siqnal yollarından keçir. Hər şirniyyat istəyi gəldikdə əvvəlcə bir böyük stəkan su içib 10-15 dəqiqə gözləmək, çox vaxt bu istəyin özündən keçməsinə kömək edir.",
+      "Dördüncü və son üsul isə yuxu keyfiyyətinə diqqət yetirməkdir. Kifayət qədər yuxu almayan orqanizmdə açlıq və toxluq hormonları (qrelin və leptin) balansdan çıxır, bu da növbəti gün şəkərli qidalara olan həvəsi artırır. Gecə 7-8 saat keyfiyyətli yuxu almaq, gündüz saatlarında şirniyyat krizlərinin tezliyini azaltmaqda çox vaxt qidalanma dəyişikliklərindən daha effektiv nəticə verir."
+    ]
+  },
+  {
+    "id": "evde-qatiq-ve-corek-hazirlanmasi",
+    "topic": "Mətbəx sirləri",
+    "category": "metbex-sirleri",
+    "categoryName": "Mətbəx Sirləri",
+    "title": "Evdə maya istifadə etmədən təbii çörək və qatıq",
+    "excerpt": "Süfrənizə təbii və qatqısız lezzətlər gətirmək üçün addım-addım ev hazırlığı bələdçisi.",
+    "emoji": "🍞",
+    "theme": "amber",
+    "image": "https://i.pinimg.com/736x/07/9a/dc/079adc98e81054e027b18f3eb6e75f98.jpg",
+    "readMinutes": 9,
+    "date": "2026-03-28",
+    "content": [
+      "Marketlərdən aldığımız hazır qida məhsullarının tərkibindəki qatqı maddələri artdıqca, evdə təbii üsullarla hazırlanan qidalara olan tələbat da paralel şəkildə çoxalır. Bir çox insan bunun mürəkkəb və vaxt aparan bir proses olduğunu düşünür, halbuki ən sadə ingredientlərlə — süd, un, su və bir az səbirlə — mükəmməl çörək və qatıq hazırlamaq düşündüyünüzdən qat-qat asandır.",
+      "Ev qatığı hazırlayarkən sütün temperaturu kritik rola malikdir, çünki bu, maya bakteriyalarının fəallığını birbaşa təyin edir. Südü qaynatdıqdan sonra sərçə barmağınızı 7 saniyə içində rahatlıqla saxlaya biləcəyiniz istiliyə (təxminən 42-45°C) qədər soyudub, bir qaşıq təbii maya ilə yumşaq şəkildə çalxalamaq, ideal bərk quruluşlu qatıq almağın əsas sirridir. Çox isti süd mayanı öldürür, çox soyuq süd isə fermentasiya prosesini ləngidir və ya tamamilə dayandırır.",
+      "Qatığı çalxaladıqdan sonra qabı isti bir yerdə (məsələn, söndürülmüş, amma hələ isti sobada və ya yorğana bükülü şəkildə) 6-8 saat, ən yaxşısı gecə boyu rahat buraxmaq lazımdır — bu müddət ərzində hərəkət etdirmək və ya qapağı açmaq fermentasiya prosesini pozur. Nəticədə əldə edilən qatıq həm daha zəngin probiotik tərkibə, həm də market versiyalarından fərqli, dərin bir dada malik olur.",
+      "Çörək hazırlığında isə uzunmüddətli fermentasiya həzm üçün inanılmaz dərəcədə faydalıdır. Mayasız, sadəcə un, su və az miqdarda qatıq suyu (turşu mayası kimi) ilə hazırlanan xəmir 12 saat ərzində otaq temperaturunda dincəldikdə, təbii bakteriyalar unun tərkibindəki mürəkkəb nişastanı tədricən parçalayır. Bu proses nəticəsində xəmir həm möhtəşəm, məsaməli faktura qazanır, həm də glutenin bir hissəsi parçalanaraq mədəni daha az yorur, nəticədə hazır maya ilə hazırlanan çörəklərə nisbətən daha asan həzm olunan bir məhsul alınır.",
+      "Evdə hazırlanan bu təbii qidalar həm bağırsaq mikrobiomunu dəstəkləyir, həm də mühafizəkarlardan, qatqı maddələrindən tamamilə uzaq, sadə tərkibli məhsullar təqdim edir. Üstəlik bişirmə prosesinin özü — xəmirin qabarmasını izləmək, qatığın fermentasiyasını gözləmək — evinizə misilsiz bir qoxu, istilik və ənənəvi mətbəx atmosferi bəxş edir ki, bu da hazır məhsul almaqla heç vaxt əldə edilə bilməz."
+    ]
+  },
+  {
+    "id": "fermentasiya-olunmus-qidalar",
+    "topic": "Sağlamlıq",
+    "category": "saglamliq",
+    "categoryName": "Sağlamlıq",
+    "title": "Bağırsaq dostu: Fermentasiya olunmuş qidaların gücü",
+    "excerpt": "Turşu, kimçi və kombuça kimi probiotik zəngini qidaların immunitetə və həzmə möcüzəvi təsirləri.",
+    "emoji": "🫙",
+    "theme": "leaf",
+    "image": "https://i.pinimg.com/1200x/a0/a8/82/a0a8820fa768f64bb06ae974b1aee09e.jpg",
+    "readMinutes": 7,
+    "date": "2026-03-18",
+    "content": [
+      "Müasir tibb bağırsaqları çox vaxt 'ikinci beyin' adlandırır və bu, sadəcə obrazlı bir ifadə deyil — həzm sisteminin sağlamlığı birbaşa immunitetimizdən tutmuş əhval-ruhiyyəmizə, hətta yuxu keyfiyyətinə qədər geniş bir spektrə təsir edir. Fermentasiya olunmuş qidalar isə bu mürəkkəb sistemin ən böyük təbii köməkçilərindən biridir, çünki onlar bağırsaq florasını canlı bakteriyalarla birbaşa zənginləşdirir.",
+      "Ev üsulu ilə hazırlanmış duzlu turşular, kefir və kombuça canlı probiotik bakteriyalarla zəngindir və bu baxımdan pasterizasiya edilmiş, uzunmüddətli saxlama üçün emal olunmuş hazır məhsullardan köklü şəkildə fərqlənir. Bu faydalı bakteriyalar bağırsaq florasının müxtəlifliyini bərpa edir, faydalı mikroorqanizmlərin sayını artırır və eyni zamanda zərərli mikroorqanizmlərin nəzarətsiz çoğalmasının qarşısını alır.",
+      "Fermentasiya prosesi həmçinin qidanın özünün qida dəyərini artırır — məsələn, kələm turşuya çevrildikdə tərkibindəki bəzi vitaminlərin (xüsusilə K2 vitamininin) miqdarı artır, üstəlik fermentasiya zamanı yaranan orqanik turşular mineralların orqanizm tərəfindən daha asan mənimsənilməsinə kömək edir. Bu, fermentasiyanın sadəcə saxlama üsulu deyil, eyni zamanda qida zənginləşdirmə prosesi olduğunu göstərir.",
+      "Gündəlik menyunuza cəmi 1-2 xörək qaşığı ev turşusu və ya bir stəkan təbii kefir əlavə etmək belə, həzm problemlərini, köp hissini və ümumi halsızlığı nəzərəçarpan dərəcədə azalda bilər. Kiçik miqdarlardan başlamaq və tədricən artırmaq tövsiyə olunur, çünki bağırsaq florası kəskin dəyişikliklərə ilk mərhələdə həssas reaksiya verə bilər.",
+      "Qeyd etmək lazımdır ki, sirkə ilə hazırlanmış (fermentasiya olmayan) və pasterizasiya olunmuş hazır market turşuları bu faydalı canlı bakteriyaları demək olar ki, ehtiva etmir, çünki istilik emalı prosesi bakteriyaları məhv edir. Buna görə də ən yaxşı seçim ənənəvi duzlu su fermentasiyası üsulu ilə hazırlanmış, pasterizasiya edilməmiş məhsullara üstünlük verməkdir — bu tip məhsulları çox vaxt soyuducu bölməsində, 'canlı kultur' etiketi ilə tapmaq mümkündür."
+    ]
+  }
   ]
