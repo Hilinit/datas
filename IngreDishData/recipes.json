@@ -4095,14 +4095,14 @@
         ]
       },
       {
-        "id": "kaha-sobada-balali-balqabaq",
+        "id": "sobada-balali-balqabaq",
         "title": "Sobada Qozlu & Ballı Balqabaq",
         "description": "Qış mövsümünün ən şirin, faydalı və təbii deserti.",
         "longDescription": "Balqabaq dilimlərinin sobada öz şirəsində yumşalana kimi bişirilməsi, üzərinə təbii bal, darçın və bol qoz ləpəsi gəzdirilməsi.",
         "emoji": "🎃",
        
-        "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-balali-balqabaq.jpg",
+        "embedUrl": "https://www.youtube.com/embed/hRQtZYJphdQ",
         "category": "qis",
         "categoryName": "qış yeməkləri",
         "tags": ["Balqabaq", "Pəhriz deserti", "Qış deserti"],
