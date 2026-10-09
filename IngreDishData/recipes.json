@@ -5,7 +5,6 @@
       "description": "Dadı damağınızda qalacaq klassik resept.",
       "longDescription": "Bütöv toyuq budları kartof dilimləri ilə birgə sobada qızardılır. Sarımsaq və otlarla marinə olunan toyuq xırtıldayan qabıq, içəridə isə şirəli ət təqdim edir — qonaq süfrəsi üçün ideal seçim.",
       "emoji": "🍗",
-      "theme": "amber",
       "image":"https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-toyuq-kartof.jpg",
       "embedUrl": "https://www.youtube.com/embed/-v2Ttd9Xgg8",
       "category": "toyuq",
@@ -39,7 +38,6 @@
       "description": "Zərif qaymaq sousunda bişirilmiş şirəli toyuq sinəsi.",
       "longDescription": "Xırda doğranmış toyuq fi̇lesi şampinyon göbələkləri və qatı qaymaqla tavada qovrulur. Sarımsaq və kərə yağı sousa xüsusi ətir qatır.",
       "emoji": "🥘",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/qaymaqli-gobelekli-toyuq.jpg",
       "embedUrl": "https://www.youtube.com/embed/8ITXgvh1b3Q",
       "category": "toyuq",
@@ -73,7 +71,6 @@
       "description": "Bol soğan və yumurta ilə hazırlanan milli mətbəx lezzəti.",
       "longDescription": "Toyuq əti kərə yağında qovrulmuş bol soğan və təzə pomidorla bərabər bişirilir, sonunda üzərinə çırpılmış yumurta əlavə olunur.",
       "emoji": "🍳",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/toyuq-chixirtmasi.jpg",
       "embedUrl": "https://www.youtube.com/embed/fbZ8-pRGoaU",
       "category": "toyuq",
@@ -108,7 +105,6 @@
       "description": "Rəngarəng bibərlər və pomidorla bol vitaminli sote.",
       "longDescription": "Toyuq filesinin zəngin tərəvəz çeşidləri ilə yüksək istilikdə tez qovrulması ilə hazırlanan, yüngül və doyumlu yemək.",
       "emoji": "🥗",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/terevezli-toyuq-sote.jpg",
       "embedUrl": "https://www.youtube.com/embed/5U_7jo2JkhM",
       "category": "toyuq",
@@ -142,7 +138,6 @@
       "description": "Asiya mətbəxindən şirin-şor dadlı eksotik resept.",
       "longDescription": "Soya sousu, bal və sarımsaqla hazırlanan Teriyaki sousunda karamelləşdirilmiş toyuq parçaları. Küncüt və göy soğanla təqdim edilir.",
       "emoji": "🥢",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/teriyaki-souslu-toyuq.jpg",
       "embedUrl": "https://www.youtube.com/embed/_rcpo4yjMJU",
       "category": "toyuq",
@@ -176,7 +171,6 @@
       "description": "Xüsusi sousla marinə olunmuş, qızılı qabıqlı bütöv toyuq.",
       "longDescription": "Limon, kərə yağı və ətirli otlar qarışığı ilə sürtülmüş bütöv toyuq sobada yavaş-yavaş bişirilərək xırtıldayan dərili və şirəli nəticə verir.",
       "emoji": "🍗",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-butov-toyuq-roast.jpg",
       "embedUrl": "https://www.youtube.com/embed/WzLOvSHevOQ",
       "category": "toyuq",
@@ -210,7 +204,6 @@
       "description": "Suxarı panirovkasında daxili yumşaq, xarici xırtıldayan toyuq dilimləri.",
       "longDescription": "Nazik döyülmüş toyuq döş əti un, yumurta və panko suxarısına batırılaraq tavada qızıldan sarı rəng alana qədər qızardılır.",
       "emoji": "🥩",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/toyuq-snitsel.jpg",
       "embedUrl": "https://www.youtube.com/embed/nSL54Bn6948",
       "category": "toyuq",
@@ -244,7 +237,6 @@
       "description": "Yunan üslubunda marinatlanmış mini toyuq kababları.",
       "longDescription": "Qatıq, limon suyu, sarımsaq və oregano ilə marinat olunmuş toyuq tikələri taxta çöplərə düzülərək sobada və ya qril tavada bişirilir.",
       "emoji": "🍢",
-      "theme": "amber",
       "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/toyuq-suvlaki-kabab.jpg",
       "embedUrl": "https://www.youtube.com/embed/LQjvCoCOMPc",
       "category": "toyuq",
@@ -278,7 +270,6 @@
         "description": "Şirəli yumşaq əti və ətirli otları ilə unudulmaz lezzət.",
         "longDescription": "Təzə rozmarin, sarımsaq və zeytun yağı ilə marinad edilmiş quzu qabırğaları sobada aşağıkı dərəcədə bişirilir. Ağızda əriyən yumşaq əti və xırtıldayan kənarları ilə xüsusi ziyafət süfrələri üçün mükəmməl seçimdir.",
         "emoji": "🍖",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-quzu-qabirgasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/SxpUYlRon8M",
         "category": "et",
@@ -312,7 +303,6 @@
         "description": "Tavada tez bişən, şirəli və yüksək proteinli klassik bifşteks.",
         "longDescription": "Keyfiyyətli dana bel əti yüksək istilikdə tavada mühürlənir, kərə yağı və sarımsaqla çilənərək ideal yumşaqlıq əldə edilir. Ət sevərlərin ən çox üstünlük verdiyi yeməklərdəndir.",
         "emoji": "🥩",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/dana-eti-bifshteks.jpg",
         "embedUrl": "https://www.youtube.com/embed/1JBh0OJnxgY",
         "category": "et",
@@ -346,7 +336,6 @@
         "description": "Öz suyunda zəif odda bişən yumşaq və pəhrizli ət yeməyi.",
         "longDescription": "Dana əti, pomidor, bibər və soğan qat-qat tavasına yığılaraq heç su əlavə edilmədən öz suyunda zəif odda bişirilir. Həm sağlam, həm də çox ləzzətlidir.",
         "emoji": "🍲",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/teravezli-dana-buglama.jpg",
         "embedUrl": "https://www.youtube.com/embed/-feYMv2imn0",
         "category": "et",
@@ -381,7 +370,6 @@
         "description": "Bol ədviyyatlı, içi şirəli klassik ət köftəsi.",
         "longDescription": "Çəkilmiş dana və quzu əti soğan, sarımsaq və xüsusi ədviyyatlarla yoğrulur. Tavada qızardılaraq kartof free və ya düyü ilə təqdim edilir.",
         "emoji": "🧆",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/ev-usulu-kofte.jpg",
         "embedUrl": "https://www.youtube.com/embed/v27H1DjXtL0",
         "category": "et",
@@ -415,7 +403,6 @@
         "description": "Qiymə və kartofun sobada qızarmış pendirlə mükəmməl uyğunluğu.",
         "longDescription": "Sotelenmiş qiyməli içlik nazik doğranmış kartof dilimləri ilə növbəli şəkildə sobada bişirilir. Üzərinə ərintili kaşar pendiri əlavə olunur.",
         "emoji": "🥧",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-etli-kartof-qratin.jpg",
         "embedUrl": "https://www.youtube.com/embed/85sq8vYjLk0",
         "category": "et",
@@ -449,7 +436,6 @@
         "description": "Xama və göbələk sousunda bişirilmiş incə dana əti dilimləri.",
         "longDescription": "Uzunsov doğranmış yumşaq dana əti göbələk və soğanla qovrulduqdan sonra xama sousunda dəmlənir. Püre və ya makaron ilə mükəmməl uyğunlaşır.",
         "emoji": "🍲",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/klassik-dana-bifshtroqonov.jpg",
         "embedUrl": "https://www.youtube.com/embed/CR0Ytq_sjnk",
         "category": "et",
@@ -483,7 +469,6 @@
         "description": "Ədviyyatlı qiymə ilə doldurulmuş sobada bişmiş badımcanlar.",
         "longDescription": "Qızardılmış və ya sobada yumşaldılmış badımcanların ortası açılaraq sobada qovrulmuş qiymə ilə doldurulur, pomidor sousu ilə sobada bişirilir.",
         "emoji": "🍆",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-etli-teze-badimcan.jpg",
         "embedUrl": "https://www.youtube.com/embed/dfaseZb7T3s",
         "category": "et",
@@ -517,7 +502,6 @@
         "description": "Yüksək odda tərəvəzlərlə sürətlə qovrulmuş dana əti.",
         "longDescription": "Təzə dana əti julien doğranmış bibər, soğan və kərə yağı ilə yüksək istilikli sacda və ya qalın tavada qovrulur. Lavaş ilə təqdim edilən əla piknik lezzətidir.",
         "emoji": "🥘",
-        "theme": "amber",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/dana-eti-sote-sac.jpg",
         "embedUrl": "https://www.youtube.com/embed/AhIaT3riSNw",
         "category": "et",
@@ -551,7 +535,7 @@
         "description": "Zərif sousda bişirilmiş, şirəli və vitaminli qızılbalıq dileyi.",
         "longDescription": "Zeytun yağı, sarımsaq, limon suyu və təzə şüyüdlə marinad olunmuş qızılbalıq (salmon) filesi sobada öz şirəsində bişirilir. Həm pəhriz saxlayanlar, həm də dəniz məhsulları sevərlər üçün ideal seçimdir.",
         "emoji": "🐟",
-        "theme": "amber",
+       
         "image":  "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-qizilbaliq-file.jpg",
         "embedUrl": "https://www.youtube.com/embed/AQ9CFG94YTI",
         "category": "baliq",
@@ -585,7 +569,7 @@
         "description": "Qızılı qabıqlı, içi yumşaq klassik tava balığı.",
         "longDescription": "Təmizlənmiş sudak və ya zander balığı ədviyyatlı una batırılaraq tavada yüksək odda qızardılır. Xarici xırtıldayan, daxili isə ağ və yumşaq əti ilə seçilir.",
         "emoji": "🎣",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/tavada-xirtildayan-sudak.jpg",
         "embedUrl": "https://www.youtube.com/embed/doX5OYTG8uM",
         "category": "baliq",
@@ -618,7 +602,7 @@
         "description": "Tərəvəzlər yatağında bişirilmiş zərif Dorado.",
         "longDescription": "Bütöv təmizlənmiş Dorado balığı halqa soğan, pomidor və limon dilimləri ilə birgə sobada bişirilir. Balığın öz təbii dadını qoruyub saxlayan ən sağlam reseptlərdəndir.",
         "emoji": "🐟",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-dorado-terevezli.jpg",
         "embedUrl": "https://www.youtube.com/embed/juVIiSe-19A",
         "category": "baliq",
@@ -652,7 +636,7 @@
         "description": "Kərə yağı və badam dilimləri ilə tavada bişmiş incə farel.",
         "longDescription": "Bütöv və ya file şəklində farel balığı tavada kərə yağında yavaş-yavaş qızardılır. Üzərinə əlavə edilən qovrulmuş badam dilimləri balığa xüsusi zəriflik verir.",
         "emoji": "🍳",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/tavada-farel-baligi.jpg",
         "embedUrl": "https://www.youtube.com/embed/h27T1sKgi-s",
         "category": "baliq",
@@ -686,7 +670,7 @@
         "description": "Qoz və turşu içliyi ilə doldurulmuş cənub mətbəxi tacı.",
         "longDescription": "Kütüm və ya çapaq balığının içi çəkilmiş qoz, qızardılmış soğan və alça lavaşanası (turşusu) qarışığı ilə doldurulur və sobada tam bişənədək saxlanılır.",
         "emoji": "🧆",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-levengi-baliq.jpg",
         "embedUrl": "https://www.youtube.com/embed/-Ajd81XMifs",
         "category": "baliq",
@@ -719,7 +703,7 @@
         "description": "Buxarda öz suyunda bişən vitaminlə zəngin balıq yeməyi.",
         "longDescription": "Balıq tikələri estetik şəkildə pomidor, şirin bibər, limon və bol cəfəri ilə qazana yığılaraq aşağı odda buğda bişirilir. Çox yüngül və həzmə xeyirlidir.",
         "emoji": "🍲",
-        "theme": "amber",
+       
         "image":  "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/baliq-buglamasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/DjrFo6Smgv4",
         "category": "baliq",
@@ -753,7 +737,7 @@
         "description": "Kiçik və dadlı barbunya balığının sobada tez hazırlanan versiyası.",
         "longDescription": "Xüsusi ətirli dəniz balığı olan Tekir/Barbun zeytun yağı, sarımsaq və kekiklə harmanlanaraq sobada yüksək istilikdə xırtıldayan hala gətirilir.",
         "emoji": "🐟",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sobada-tekir-baliq.jpg",
         "embedUrl": "https://www.youtube.com/embed/U1AyjjsIwu4",
         "category": "baliq",
@@ -787,7 +771,7 @@
         "description": "Balıq filesindən hazırlanan yumşaq və pəhrizli kotlet.",
         "longDescription": "Ağ ətli balıq filesi soğan, göyərti və çörək içi ilə maşından keçirilərək yüngülvari tavada qızardılır və ya sobada bişirilir.",
         "emoji": "🧆",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/baliq-kotleti.jpg",
         "embedUrl": "https://www.youtube.com/embed/DWy9DMVGL7o",
         "category": "baliq",
@@ -822,7 +806,7 @@
         "description": "Qış aylarının əvəzsiz immun gücləndirici və qidalı şorbası.",
         "longDescription": "Toyuq bulyonunda bişirilmiş incə ev əriştəsi, didilmiş toyuq əti və tərəvəzlərin uyğunluğu. Hem uşaqlar, hem böyüklər üçün şəfalı və doyumlu seçimdir.",
         "emoji": "🍲",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/toyuq-surbasi-erişte-ile.jpg",
         "embedUrl": "https://www.youtube.com/embed/5qviyajBl-A",
         "category": "sorba",
@@ -856,7 +840,7 @@
         "description": "Restoran üslubunda hazırlanan zərif göbələk krem-şorbası.",
         "longDescription": "Kərə yağında sarımsaqla qovrulmuş təzə şampinyon göbələkləri, un və qaymaqla zənginləşdirilir. Sarımsaqlı suxari ilə mükəmməl uyğunlaşır.",
         "emoji": "🥣",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/gobelek-krem-sorbasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/4EgcnnHUrkQ",
         "category": "sorba",
@@ -890,7 +874,7 @@
         "description": "Bol təzə göyərti və qatıqla hazırlanan milli sərinlik ləzzəti.",
         "longDescription": "Qatıq, yumurta və un qarışığına düyü və müxtəlif təzə göyərtilər (keşniş, şüyüd, dağkeşnişi, ispanaq) qatılaraq kəsilmədən davamlı qarışdırılaraq bişirilir.",
         "emoji": "🥣",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/dovga.jpg",
         "embedUrl": "https://www.youtube.com/embed/xA6sV_xez8E",
         "category": "sorba",
@@ -924,7 +908,7 @@
         "description": "Çuğundur və kələmin zəngin dad verdiyi ətli şorba.",
         "longDescription": "Dana əti bulyonunda bişirilmiş çuğundur, kələm, kartof və kök qarışığı. Xama və sarımsaqla təqdim edilən doyurucu və rəngarəng şorbadır.",
         "emoji": "🍲",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/borc-sorbasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/LUt12d5kJys",
         "category": "sorba",
@@ -958,7 +942,7 @@
         "description": "Şirin və ədviyyatlı notları ilə məxməri balqabaq pürəsi.",
         "longDescription": "Fırınlanmış və ya haşlanmış balqabaq təzə zəncəfil, sarımsaq və qaymaqla birgə blenderdən keçirilir. Qovrulmuş balqabaq tumları ilə bəzədilir.",
         "emoji": "🎃",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/balqabaq-krem-sorbasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/AW3BCVbDiXc",
         "category": "sorba",
@@ -992,7 +976,7 @@
         "description": "Qozasız küpələrdə yavaş bişən zəngin quzu əti şorbası.",
         "longDescription": "Quzu əti, nohut, quyruq və zəfəran gil küpələrdə sobanın zəif istiliyində saatlarla bişirilir. Yanında sumaq və təndir çörəyi ilə təqdim olunan milli dəyərimizdir.",
         "emoji": "🏺",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/piti-sorbasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/mUotHb6cRFA",
         "category": "sorba",
@@ -1026,7 +1010,7 @@
         "description": "Közlənmiş tərəvəzlərdən hazırlanan intensiv ətirli pomidor şorbası.",
         "longDescription": "Sobada sarımsaq və reyhanla közlənilmiş təzə pomidorlar bulyonla birlikdə blenderdən keçirilir. Ərinmiş kaşar pendirli tost ilə təqdim olunur.",
         "emoji": "🍅",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/pomidor-krem-sorbasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/xzAHPLNhZVo",
         "category": "sorba",
@@ -1060,7 +1044,7 @@
         "description": "Bayram və ziyafət süfrələrinin əvəzsiz, sevilən klassik salatı.",
         "longDescription": "Bişirilmiş tərəvəzlər, toyuq gövsü, turşu xiyar və yaşıl nohudun mayonezlə mükəmməl harmoniyası. Azərbaycan mətbəxində xüsusi yeri olan bu salat həm doyurucu, həm də çox ləzzətlidir.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/paytaxt-salati.jpg",
         "embedUrl": "https://www.youtube.com/embed/auuPxP86omE",
         "category": "salat",
@@ -1096,7 +1080,7 @@
         "description": "Xırtıldayan suxari və xüsusi souslu populyar restoran salatı.",
         "longDescription": "Qızardılmış toyuq filesi, fresh aysberq kələmi, parmezan pendiri və sarımsaqlı suxarilər Sezar sousu ilə bəzədilir. Yüngül və nəfis dadı ilə modern mətbəxin sevimlisidir.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sezar-salati-toyuqla.jpg",
         "embedUrl": "https://www.youtube.com/embed/oJGRFSbGRnE",
         "category": "salat",
@@ -1130,7 +1114,7 @@
         "description": "Təzə tərəvəzlərdən hazırlanan ən yüngül və təbii yay salatı.",
         "longDescription": "Pomidor, xiyar, şirin bibər və bol göyərtinin zeytun yağı və limon suyu ilə qovuşması. Hər bir ət yeməyinin yanına yaraşan, vitamin deposu olan milli salatdır.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/choban-salati.jpg",
         "embedUrl": "https://www.youtube.com/embed/4S4OA_Ge7-k",
         "category": "salat",
@@ -1164,7 +1148,7 @@
         "description": "Qat-qat yığılan, yumşaq və zərif bayram salatı.",
         "longDescription": "Bişmiş tərəvəzlər, yumurta və kərə yağının qat-qat rəndələnərək mayonezlə birləşdirilməsi. Üzərinə rəndələnmiş yumurta sarısı səpilərək Mimoza çiçəyi görünüşü verilir.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/mimoza-salati.jpg",
         "embedUrl": "https://www.youtube.com/embed/NQiE77GkiEo",
         "category": "salat",
@@ -1198,7 +1182,7 @@
         "description": "Feta pendiri və zeytunla zənginləşdirilmiş klassik salat.",
         "longDescription": "İri doğranmış xiyar, pomidor, qırmızı soğan və zeytunların Feta pendiri ilə harmoniyası. Oreqano və sızma zeytun yağı salata xüsusi ətir verir.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/yunan-salati.jpg",
         "embedUrl": "https://www.youtube.com/embed/Em2LZt1Bhr8",
         "category": "salat",
@@ -1232,7 +1216,7 @@
         "description": "Vitaminli, immun gücləndirici və estetik rəngli salat.",
         "longDescription": "Bişmiş çuğundurun qoz içi, sarımsaq və nar dənələri ilə birləşməsi. Mayonez və ya zeytun yağı ilə hazırlana bilən xüsusi dad palitrası sunur.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/chundur-salati.jpg",
         "embedUrl": "https://www.youtube.com/embed/cg7SHfecGY8",
         "category": "salat",
@@ -1266,7 +1250,7 @@
         "description": "Asiya notları ilə zəngin, isti xırçıldayan badımcan dilimləri.",
         "longDescription": "Nişastaya batırılıb qızardılmış badımcanlar təzə pomidor, şirin çili sousu, küncüt və göyərti ilə qarışdırılır. Dərhal servis edilən möhtəşəm restorant ləzzətidir.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/xirt-xirt-badimcan-salati.jpg",
         "embedUrl": "https://www.youtube.com/embed/Kw5shMmv3MQ",
         "category": "salat",
@@ -1300,7 +1284,7 @@
         "description": "Proteinlə zəngin, tez hazırlanan fit və pəhriz salatı.",
         "longDescription": "Konservləşdirilmiş tuna balığı, qarğıdalı, aysberq yarpaqlarıvə qaynadılmış yumurtanın harmoniyası. Zeytun yağlı yüngül sousu ilə həm doyumlu, həm də faydalıdır.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/tunets-baliqli-salat.jpg",
         "embedUrl": "https://www.youtube.com/embed/W95CsKz4BXM",
         "category": "salat",
@@ -1334,7 +1318,7 @@
         "description": "Düyü unundan bişmiş riştələri, qoz ləpəsi və zəfəranlı şərbəti ilə məşhur milli şirniyyat.",
         "longDescription": "İncə düyü riştələrinin qat-qat yığılaraq ədviyyatlı qoz içi ilə doldurulması və üzərinə zəfəranlı şərbət gəzdirilməsi ilə hazırlanan möhtəşəm Azərbaycan şirniyyatıdır.",
         "emoji": "🥮",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/seki-paxlavasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/x1spgOQhcfM",
         "category": "sirniyyat",
@@ -1368,7 +1352,7 @@
         "description": "Naxışlı qabıqlı, badam və ya qoz içlikli ənənəvi Novruz şirniyyatı.",
         "longDescription": "Xüsusi maqqaşla üzərinə incə naxışlar vurulan, badam və şəkər tozu qarışığı ilə doldurulmuş yumşaq xəmirli kövrək milli şirniyyat.",
         "emoji": "🥟",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/baku-sekerburasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/4DkFEwQoqtg",
         "category": "sirniyyat",
@@ -1403,7 +1387,7 @@
         "description": "Zəngin kakao dadı və nəmli daxili teksturası olan şokoladlı keks.",
         "longDescription": "Eritilmiş tünd şokolad və kərə yağı ilə hazırlanan, kənarları xırtıldayan, içi isə yumşaq və axıcı qalan klassik şokoladlı şirniyyat.",
         "emoji": "🍫",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sokoladli-brauni.jpg",
         "embedUrl": "https://www.youtube.com/embed/5_QeIAnvSz4",
         "category": "sirniyyat",
@@ -1437,7 +1421,7 @@
         "description": "Üstü yanmış, içi krem kimi axıcı məşhur kremli çizkeyk.",
         "longDescription": "Bol kəsmikli pendir (krem pendir) və qaymaqla hazırlanan, yüksək dərəcədə üstü karamelləşənə qədər bişirilən İspaniya mənşəli ləzzət.",
         "emoji": "🍰",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/san-sebastian-cizkeyk.jpg",
         "embedUrl": "https://www.youtube.com/embed/4AGw6XjBb2E",
         "category": "sirniyyat",
@@ -1470,7 +1454,7 @@
         "description": "Ətirli bal qatları və bişmiş kremlə hazırlanan yumşaq tort.",
         "longDescription": "Təbii bal ilə karamelləşdirilmiş incə xəmir qatlarının zərif bişmiş krem (zavodnoy) və ya xama kremi ilə birləşdiyi ənənəvi desert.",
         "emoji": "🎂",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/balli-tort-medovik.jpg",
         "embedUrl": "https://www.youtube.com/embed/LyCinrzGwrE",
         "category": "sirniyyat",
@@ -1505,7 +1489,7 @@
         "description": "Kat-kat qatlanan, içi fındıq və ya badamlı xırtıldayan şirniyyat.",
         "longDescription": "İncə açılmış xəmir qatlarının yağlanaraq üst-üstə yığılması və içərisinə şəkərli badam əlavə edilməsi ilə hazırlanan zərif Novruz deserti.",
         "emoji": "🥐",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sirniyyat",
@@ -1539,7 +1523,7 @@
         "description": "Kofe tərkibli, maskarpone pendirli yüngül desert.",
         "longDescription": "Espresso kofesində isladılmış Savoiardi (pişoq dili) peçenyelərinin maskarpone pendiri və qaymaqlı krem ilə qat-qat yığılması. Üzərinə bol kakao səpilir.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sirniyyat",
@@ -1570,10 +1554,9 @@
       {
         "id": "profiterol-ekler",
         "title": "Krem Doldurulmuş Profiterol",
-        "description": "Bişmiş xəmirdən hazırlanan, şokolad souslu zərif şirniyyat توپları.",
+        "description": "Bişmiş xəmirdən hazırlanan, şokolad souslu zərif şirniyyatlar.",
         "longDescription": "Puşlanmış bişmiş xəmir (choux) toplarının daxilinə ipək kimi vanilli zavodnoy krem vurulur və üzərinə ilıq şokolad sousu tökülür.",
         "emoji": "🧁",
-        "theme": "amber",
         "image": "https://images.unsplash.com/photo-1603532648955-039310d9ed75",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sirniyyat",
@@ -1607,7 +1590,7 @@
         "description": "Ətli və pomidorlu xüsusi sousla hazırlanan məşhur İtalyan makaronu.",
         "longDescription": "Qiymə əti, kök, soğan və zəngin pomidor sousunun aşağı odda uzun müddət bişirilməsi ilə hazırlanan Bolonyez sousu, al dente bişirilmiş spagetti ilə mükəmməl uyğunlaşır.",
         "emoji": "🍝",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "makaron",
@@ -1642,7 +1625,7 @@
         "description": "Zərif qaymaqlı və parmezanlı sousda bişirilmiş fettuçini makaronu.",
         "longDescription": "Qızardılmış toyuq tikələri, təzə şampinyon göbələkləri və sarımsaqlı qaymaq sousunun fettuçini lenti ilə harmoniyası. Restoran üslubunda nəfis lezzətdir.",
         "emoji": "🍝",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "makaron",
@@ -1677,7 +1660,7 @@
         "description": "Yumurta sarısı, pendir və xırtıldayan dəmirlə hazırlanan zərif İtalyan dadı.",
         "longDescription": "Qaymaq istifadə edilmədən, yalnız yumurta sarısı, Parmezan/Pekorino pendiri və qızardılmış ətin istiliyi ilə xüsusi krem teksturası alan klassik Roma resepti.",
         "emoji": "🍝",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "makaron",
@@ -1711,7 +1694,7 @@
         "description": "Beşamel souslu və bol ərinmiş pendirli soba makaronu.",
         "longDescription": "Qaynadılmış makaronun ipək kimi Beşamel sousu və cheddar/qaşar pendiri ilə qarışdırılıb sobada üstü qızılı xırtıldayan qabıq bağlayana qədər bişirilməsi.",
         "emoji": "🧀",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "makaron",
@@ -1745,7 +1728,7 @@
         "description": "Təzə reyhan, samam qozu və zeytun yağı ilə hazırlanan yüngül İtalyan resepti.",
         "longDescription": "Təzə yaşıl reyhan, kedri qozu (və ya qoz), parmezan və sızma zeytun yağının blenderdə əzilməsi ilə hazırlanan ətirli Pesto Genovese souslu makaron.",
         "emoji": "🌿",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "makaron",
@@ -1779,7 +1762,7 @@
         "description": "Dəniz məhsulları sevənlər üçün zeytun yağlı və limolu xüsusi makaron.",
         "longDescription": "Sarımsaq, ağ çaxır (və ya limon suyu) və təzə cəfəri ilə sote olunmuş iri krevtlərin spagetti ilə birləşdiyi zərif Aralıq dənizi yeməyi.",
         "emoji": "🦐",
-        "theme": "amber",
+       
         "image":  "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/deniz-mehsullu-spagetti.jpg",
         "embedUrl": "https://www.youtube.com/embed/1YVVW_RWiUk",
         "category": "makaron",
@@ -1813,7 +1796,7 @@
         "description": "Uşaqlıqdan tanıdığımız, tez və doyumlu milli ev yeməyi.",
         "longDescription": "Soğanla yaxşıca qovrulmuş qiymə ətin pomidor pastası və kərə yağı ilə zənginləşdirilərək qaynadılmış makaronla tavada harmanlanması.",
         "emoji": "🥘",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "makaron",
@@ -1847,7 +1830,7 @@
         "description": "Zərif pürə teksturası və limonlu dadı ilə tam veqan şorba.",
         "longDescription": "Qırmızı mərcimək, kök, kartof və soğan zeytun yağında sotelenib bişirildikdən sonra blenderlə pürə halına gətirilir. Üzərinə pul bibər və təzə limon suyu əlavə edilir.",
         "emoji": "🥣",
-        "theme": "amber",
+       
         "image":  "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/merci-sorbasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/L9siOJ8sZAI",
         "category": "veqan",
@@ -1882,7 +1865,7 @@
         "description": "Sarımsaq, acı bibər və pomidor souslu zəngin veqan makaron.",
         "longDescription": "Sarımsaq və acı qırmızı bibərin zeytun yağında ətir buraxması və təzə pomidor sousu ilə bişirilməsi ilə hazırlanan klassik İtalyan yeməyi.",
         "emoji": "🌶️",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/penne-arrabbiata.jpg",
         "embedUrl": "https://www.youtube.com/embed/wAAJqFPSmv0",
         "category": "veqan",
@@ -2013,7 +1996,7 @@
         "description": "Bənövşəyi reyhanın zərif ətri və limonun təravəti ilə hazırlanan milli içki.",
         "longDescription": "Təzə bənövşəyi reyhan yarpaqlarının dəmlənərək limon suyu və şəkərlə birləşdirilməsi ilə alınan, bənövşəyidən parlaq çəhrayı rəngə çevrilən ənənəvi Azərbaycan şərbəti.",
         "emoji": "🍹",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/reyhan-sarbati.jpg",
         "embedUrl": "https://www.youtube.com/embed/lxOez633sgo",
         "category": "ickiler",
@@ -2045,7 +2028,7 @@
         "description": "Nanə, laym və qazlı suyun harmoniyasından doğan sərinləşdirici kokteyl.",
         "longDescription": "Təzə nanə yarpaqları və laym dilimlərinin şəkərlə əzilərək qazlı su və bol buzla qarışdırıldığı dünyaca məşhur təravətləndirici yay içkisi.",
         "emoji": "🍸",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "ickiler",
@@ -2078,7 +2061,7 @@
         "description": "Yeməklərin yanında həzmə kömək edən, sərinləşdirici milli qatıq içkisi.",
         "longDescription": "Süzmə qatıq, buzlu su və təzə nanənin mikser və ya çırpıcı ilə bol köpüklənənədək çırpılması ilə hazırlanan xalqımızın sevimli içkisi.",
         "emoji": "🥛",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/naneli-ayran.jpg",
         "embedUrl": "https://www.youtube.com/embed/h4KFSrPPhk8",
         "category": "ickiler",
@@ -2109,7 +2092,7 @@
         "description": "Təzə gilaslardan bişirilən, qatqısız və vitaminli ev içkisi.",
         "longDescription": "Yetişmiş şirin gilasların su və şəkərlə hafif qaynadılaraq aromasının suya keçməsi ilə hazırlanan, həm uşaqların, həm böyüklərin sevdiyi təbii kompot.",
         "emoji": "🍒",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1527661591475-527312dd65f5",
         "embedUrl": "https://www.youtube.com/embed/9JSmcBR9Rdo",
         "category": "ickiler",
@@ -2141,7 +2124,7 @@
         "description": "Milli çay mədəniyyətimizin tacı olan ədviyyatlı qara çay dəmləməsi.",
         "longDescription": "Yüksək keyfiyyətli qara çayın zəfəran teli, darçın çubuğu və hil ilə çini çaydanlıqda dəmlənərək armudu stəkanda təqdim olunan milli qürurumuz.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "ickiler",
@@ -2174,7 +2157,7 @@
         "description": "İmmuniteti gücləndirən, təzə zəncəfil və bal tərkibli təbii içki.",
         "longDescription": "Sürtgəcdən keçirilmiş zəncəfil, təzə sıxılmış limon suyu və təbii balın soyuq su ilə qarışığı. Həm yayda sərinlədən, həm də bədəni gümrah tutan şəfalı kokteyl.",
         "emoji": "🍋",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1621263764928-df1444c5e859",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "ickiler",
@@ -2206,7 +2189,7 @@
         "description": "Şirəli pomidorlar və kərə yağında bişirilən əfsanəvi milli səhər yeməyi.",
         "longDescription": "Yetişmiş şirin pomidorların kərə yağında suyunu çəkənədək pürüzsüz qovrulması və üzərinə təzə kənd yumurtalarının əlavə edilərək bişirilməsi ilə hazırlanan səhər süfrələrimizin tacı.",
         "emoji": "🍳",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "seher-yemekleri",
@@ -2238,7 +2221,7 @@
         "description": "Bol ətirli göyərtilər və qoz ləpəsi ilə hazırlanan doyurucu səhər küküsü.",
         "longDescription": "Keşniş, şüyüd, kəvər və göy soğan kimi təzə göyərtilərin yumurta və qoz içi ilə çırpılaraq tavada hər iki tərəfinin qızılı olanadək bişirildiyi vitaminli səhər yeməyi.",
         "emoji": "🌿",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "seher-yemekleri",
@@ -2271,7 +2254,7 @@
         "description": "Pambıq kimi yumşaq, bal və qaymaqla təqdim olunan şirin səhər oladiləri.",
         "longDescription": "Qatıq və un xəmiri ilə hazırlanan, tavada qızılı rəng alana qədər bişirilən pambıq teksturalı oladilər. Yanında təbii bal və kənd qaymağı ilə mükəmməl səhər dadı yaratmağa kömək edir.",
         "emoji": "🥞",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "seher-yemekleri",
@@ -2305,7 +2288,7 @@
         "description": "Kəsmikdən hazırlanan, xırtıldayan qabıqlı və zərif daxili olan səhər yeməyi.",
         "longDescription": "Quru kəsmik, un və yumurtanın yoğrulması ilə formalaşdırılan və tavada az yağda qızardılan Rus/Şərqi Avropa mətbəxinin sevilən kəsmikli bulkaları.",
         "emoji": "🧀",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "seher-yemekleri",
@@ -2338,7 +2321,7 @@
         "description": "Tam buğda çörəyi üstündə əzilşmiş avokado və axıcı yumurta ilə müasir səhər yeməyi.",
         "longDescription": "Qızardılmış qara çörək diliminin üzərinə sürülmüş sarımsaqlı avokado pürəsi və üzərində mükəmməl bişirilmiş axıcı paşot yumurtası.",
         "emoji": "🥑",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "seher-yemekleri",
@@ -2371,7 +2354,7 @@
         "description": "Meyvələr, qoz və bal ilə zənginləşdirilmiş energetik və lifli səhər sıyrığı.",
         "longDescription": "Yulaf yarmasının süd və ya su ilə yumşalana qədər bişirilib təzə giləmeyvələr, banan dilimləri və fındıq/qoz ilə bəzədildiyi pəhriz yönümlü səhər menyusu.",
         "emoji": "🥣",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "seher-yemekleri",
@@ -2404,7 +2387,7 @@
         "description": "Şişdə köz üzərində bişirilən şirəli qoyun əti lüləsi.",
         "longDescription": "Qoyun əti və pərçim quyruğun soğanla birlikdə çəkilib xüsusi texnika ilə şişə çəkilməsi və manqalda nar kimi qızardılması ilə hazırlanan milli mətbəximizin şah əsəri.",
         "emoji": "🍢",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kabab",
@@ -2437,7 +2420,7 @@
         "description": "Köz üstündə nar kimi qızaran, yumşaq marinad olunmuş tikə ət.",
         "longDescription": "Təzə qoyun əti tikələrinin soğan suyu, kəklikotu və zeytun yağında marinad edilib manqalda köz üzərində bişirildiyi klassik və doyumlu kabab çeşidi.",
         "emoji": "🥩",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kabab",
@@ -2470,7 +2453,7 @@
         "description": "Xüsusi sousda saxlanılmış, yumşaq və şirəli toyuq kababı.",
         "longDescription": "Xama, tomat pastası, sarımsaq və ədviyyatlarla marinad olunmuş toyuq tikələrinin manqalda və ya sobada qızılı rəng alana qədər bişirilməsi.",
         "emoji": "🍗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kabab",
@@ -2503,7 +2486,7 @@
         "description": "Pomidor, badımcan və bibərin manqalda közlənməsi ilə hazırlanan kabab.",
         "longDescription": "Manqalda közlənmiş badımcan, pomidor və acı-şirin bibərlərin qabığı soyularaq sarımsaq, kərə yağı və göyərti ilə təqdim edilən əfsanəvi kabab qarniri.",
         "emoji": "🍆",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1592417817098-8f3d6ef23a85",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kabab",
@@ -2536,7 +2519,7 @@
         "description": "Sümürülən qabırğa ətinin köz üzərində xüsusi üsulla bişirilməsi.",
         "longDescription": "Qoyun qabırğalarının (antrekot) xüsusi sousda saxlanılıb manqalda qızardılması. Qıraqları xırtıldayan, içi şirəli qalan ən ləzzətli ət yeməklərindən biridir.",
         "emoji": "🍖",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kabab",
@@ -2568,7 +2551,7 @@
         "description": "Közdə pörşələnmiş, arası quyruq tikəli xırtıldayan kartof kababı.",
         "longDescription": "Qabıqlı və ya soyulmuş xırda kartofların arasına nazik quyruq dilimləri qoyularaq şişdə közlənmiş forması. Quyruğun yağı kartofa hoparaq bənzərsiz dad yaradır.",
         "emoji": "🥔",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kabab",
@@ -2600,7 +2583,7 @@
         "description": "Nazik qat-qat xəmir, bol qoz içi və zəfəranlı şərbətlə hazırlanan milli şirniyyat.",
         "longDescription": "İncə yayılmış xəmir qatlarının arasına zəfəran, hil və qoz içi səpilərək kərə yağında bişirilən, üzərinə təbii bal və ya zəfəranlı şərbət gəzdirilən Novruz süfrəsinin tacı.",
         "emoji": "🥮",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/baki-paxlavasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sirniyyat",
@@ -2636,7 +2619,7 @@
         "description": "Çox nazik fıstıq içlikli yuxalar və kərə yağı ilə bişirilən Qaziantep üslubu paxlava.",
         "longDescription": "Xüsusi nişasta ilə tül kimi nazik yayılan 40 qat yuxanın arasına bol yaşıl Antep fıstığı (püstə) və kərə yağı əlavə edilərək bişirilən çıtır şərbətli şirniyyat.",
         "emoji": "🟢",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sirniyyat",
@@ -2670,7 +2653,7 @@
         "description": "Soyulmuş şirin badam içi və hil ətri ilə hazırlanan yumşaq paxlava.",
         "longDescription": "Qabığı təmizlənib çəkilmiş badam ləpəsi, şəkər və hil qarışığı ilə hazırlanan, qatları kərə yağı ilə bol yağlanan zərif kənd usulu badamlı paxlava.",
         "emoji": "🌰",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sirniyyat",
@@ -2704,7 +2687,7 @@
         "description": "Lavaş qabığında bişirilən, xırtıldayan qazmaqlı və zəngin dəm-dəsgahlı milli plov.",
         "longDescription": "Qazmaq üçün lavaşla örtülmüş qazanda uzun tipli düyünün, zəfəranın, cücə və ya quzu əti, quru meyvələr (alça, albuxara, qeysi, kişmiş) və qoz-fındıqla vam odda dəm alması ilə hazırlanan mətbəximizin şahı.",
         "emoji": "👑",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "plov",
@@ -2739,7 +2722,7 @@
         "description": "Kestaneli, albuxaralı və yumşaq ətli turşməzə qovurmalı ənənəvi plov.",
         "longDescription": "Zəfəranlı süzmə düyünün yanında təqdim olunan, şabalıd, albuxara, soğan və quzu ətinin kərə yağında öz suyunda bişməsi ilə alınan xüsusi turşməzə milli plov çeşidi.",
         "emoji": "🍚",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "plov",
@@ -2773,7 +2756,7 @@
         "description": "Bol göyərti, ət və turş alça ilə hazırlanan yaşıl ətirli plov.",
         "longDescription": "Pəncər, keşniş, şüyüd, kəvər və göy soğan kimi zəngin göyərti çeşidlərinin kərə yağında ətlə birlikdə qovrulub limon suyu və ya abqora ilə dadlandırıldığı məşhur plov.",
         "emoji": "🌿",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "plov",
@@ -2807,7 +2790,7 @@
         "description": "Kişmiş, qeysi və xurma ilə hazırlanan vegeterian üslublu və ya toyların şirin plovu.",
         "longDescription": "Quru kayısı (qeysi), sarı və qara kişmiş, xurma və fındıq/badamın kərə yağında yüngülcə qovrularaq zəfəranlı ağ düyünün üzərinə səpildiyi zərif və şirin plov.",
         "emoji": "🥭",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "plov",
@@ -2841,7 +2824,7 @@
         "description": "Çəkilmiş qoz və narşərabla bişirilən tünd rəngli əfsanəvi fisinjanlı plov.",
         "longDescription": "Qoz içinin narşərab və ya təbii nar suyu ilə birlikdə tünd qara-bənövşəyi rəng alana qədər bişirilməsi və toyuq tikələrinin bu zəngin sousda yumşalması ilə hazırlanan təmtəraqlı plov.",
         "emoji": "🍗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "plov",
@@ -2875,7 +2858,7 @@
         "description": "Ərinmiş Çedder pendiri, şirəli dana əti kotleti və xüsusi burger sousu.",
         "longDescription": "Yumşaq briyoş bulkası arasında 100% dana ətindən hazırlanmış şirəli kotlet, ərinmiş Çedder pendiri, xiyar turşusu, təzə pomidor və klassik burger sousunun mükəmməl harmoniyası.",
         "emoji": "🍔",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "burger",
@@ -2911,7 +2894,7 @@
         "description": "Tüstülü barbekü sousu, xırtıldayan bekon və halqa soğanlı doyumlu burger.",
         "longDescription": "Qril olunmuş şirəli ət kotleti, çıtır qızarmış bekon dilimləri, karamelizə olunmuş soğan və quyu barbekü sousu ilə hazırlanan tünd və zəngin dadlı Amerikan üslubu burger.",
         "emoji": "🥓",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "burger",
@@ -2945,7 +2928,7 @@
         "description": "Xüsusi pane olunmuş çıtır toyuq filyesi, təzə salat və sarımsaqlı sous.",
         "longDescription": "Qatıq və ədviyyatda marinad olunub xüsusi unlu panirovkada qızardılmış xırtıldayan toyuq sinə əti, təravətli marul və sarımsaqlı mayonez sousu ilə hazırlanan yüngül və lezzətli burger.",
         "emoji": "🍗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "burger",
@@ -2980,7 +2963,7 @@
         "description": "Sotelenmiş şampinyon göbələkləri və ərinmiş İsveçrə pendirli xüsusi tat.",
         "longDescription": "Kərə yağında sarımsaq və kəklikotu ilə sote olunmuş ətirli göbələklər, yumşaq İsveçrə (Swiss/Emental) pendiri və şirəli dana ətinin unikal harmoniyası.",
         "emoji": "🍄",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "burger",
@@ -3013,7 +2996,7 @@
         "description": "Sadə, lakin mükəmməl dadı ilə bütün dünyada sevilən ənənəvi İtalyan pizzası.",
         "longDescription": "İncə xırtıldayan xəmir, xüsusi pomidor sousu, təzə mozzarella pendiri və ətirli reyhan yarpaqlarının klassik vəhdəti.",
         "emoji": "🍕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "pizza",
@@ -3048,7 +3031,7 @@
         "description": "Ən məşhur və sevilən, bol sucuklu klassik Amerika-İtaliya üslublu pizza.",
         "longDescription": "İncə xəmir üzərində əriyən mozzarella pendiri və sobada bişərkən kənarları qıvrılan ləzzətli ədviyyatlı pepperoni dilimləri.",
         "emoji": "🍕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "pizza",
@@ -3080,7 +3063,7 @@
         "description": "Pendir həvəskarları üçün xüsusi olaraq müxtəlif növ pendirlərin harmoniyası.",
         "longDescription": "Mozzarella, Qorgonzola (mavi pendir), Parmezan və Rikkota pendirlərinin birləşməsindən yaranan zəngin kremşəkər dad.",
         "emoji": "🧀",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "pizza",
@@ -3112,7 +3095,7 @@
         "description": "Şirin və tüstülü barbekü sousu ilə zənginləşdirilmiş dadlı toyuq pizzası.",
         "longDescription": "Toyuq filesi, qırmızı soğan, barbekü sousu və ikiqat mozzarella pendirinin mükəmməl uyğunluğu.",
         "emoji": "🍗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "pizza",
@@ -3145,7 +3128,7 @@
         "description": "Rəngbərəng təzə tərəvəzlərlə dolu, yüngül və sağlam pizza seçimi.",
         "longDescription": "Bolqar bibəri, göbələk, zeytun, qarğıdalı və pomidorun təbii ləzzəti ilə zəngin vegetarian pizza.",
         "emoji": "🫑",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "pizza",
@@ -3178,7 +3161,7 @@
         "description": "Zərif qızılbalıq və kremli pendirin birləşdiyi ən məşhur suşi növü.",
         "longDescription": "İçərisində təzə xiyar, avokado və krem pendir olan, üzəri isə incə dilimlənmiş somon (qızılbalıq) ilə örtülmüş dadlı roll.",
         "emoji": "🍣",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sushi",
@@ -3212,7 +3195,7 @@
         "description": "Krab əti və tobiko (balıq kürüsü) ilə hazırlanan məşhur tərs çevrilmiş roll.",
         "longDescription": "Düyünün kənarda olduğu, daxilində isə yengəc çubuqları (surimi), avokado və xiyar yerləşən, üzəri isə narıncı kürü ilə bəzədilmiş suşi.",
         "emoji": "🍱",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1611143669185-af224c5e3252",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sushi",
@@ -3245,7 +3228,7 @@
         "description": "Xırtıldayan qızardılmış qabıq içərisində əriyən pendir və dəniz məhsulları.",
         "longDescription": "Tempura unundan və suxarından istifadə olunaraq qızardılan, isti halda təqdim edilən və xüsusi sousla yeyilən ləzzətli suşi.",
         "emoji": "🍤",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sushi",
@@ -3277,7 +3260,7 @@
         "description": "Sadə, yüngül və vegetarianlar üçün ideal kiçik ölçülü tək tərkibli roll.",
         "longDescription": "Nori yosununun içərisində düyü və təzə avokado və ya xiyarın sarılması ilə hazırlanan ənənəvi yapon maki suşisi.",
         "emoji": "🥑",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "sushi",
@@ -3308,7 +3291,7 @@
         "description": "Bişmiş ilan balığı (unagi) və unikal unagi sousu ilə zənginləşdirilmiş şah əsər.",
         "longDescription": "İçərisində tempura karidesi olan və üzəri naxışlı şəkildə düzülmüş avokado ilə qızardılmış unagi balığı dilimləri ilə örtülən ləzzət.",
         "emoji": "🐉",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/unagi-drakon-roll.jpg",
         "embedUrl": "https://www.youtube.com/embed/q_hu0l0CnC4",
         "category": "sushi",
@@ -3339,7 +3322,7 @@
         "description": "Xırtıldayan qumlu xəmir, vanilli kremli dilimlənmiş təzə çiyələklər.",
         "longDescription": "Fransız üsulu tartlet xəmiri daxilində hamar vanilli patisserie kremi və üzərində təravətli təzə çiyələk dilimlərinin möhtəşəm harmoniyası.",
         "emoji": "🥧",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1519869325930-281384150729",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "meyveli-desertler",
@@ -3372,7 +3355,7 @@
         "description": "İpək kimi zərif qaymaqlı desert və moruq sousu.",
         "longDescription": "İtalyan mətbəxinin ən zərif deserti sayılan, təzə limon qabığı ətri ilə zənginləşdirilmiş qaymaqlı panna kotta və üzərində turşməzə moruq sousu.",
         "emoji": "🍮",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "meyveli-desertler",
@@ -3405,7 +3388,7 @@
         "description": "Karamelizə olunmuş alma və xırtıldayan yulaf-qoz qatı.",
         "longDescription": "Sobada darçın və kərə yağında yumşalan alma dilimlərinin üzərinə yulaf, un və qozdan ibarət xırtıldayan uvalantı qatının bişirilməsi ilə hazırlanan isti İngilis deserti.",
         "emoji": "🍏",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "meyveli-desertler",
@@ -3438,7 +3421,7 @@
         "description": "Banan dilimləri, vanilli peçenye və ipək kimi kremli qat-qat desert.",
         "longDescription": "Nyu-York üslubunda hazırlanan, zərif dəmləmə krem, təzə banan dilimləri və mini vanilli peçenyelərin qat-qat yığılması ilə əldə edilən inanılmaz dərəcədə yumşaq desert.",
         "emoji": "🍌",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "meyveli-desertler",
@@ -3471,9 +3454,9 @@
         "description": "Hava kimi yüngül, parlaq manqo püreli fransızo mussi.",
         "longDescription": "Manqo püresi, köpükləndirilmiş qaymaq və yumurta ağının birləşməsindən alınan, ağızda əriyən, zərif tropik desert.",
         "emoji": "🥭",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+       
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/tropik-mango-muss.jpg",,
+        "embedUrl": "https://www.youtube.com/embed/j9dlPvEn-qc",
         "category": "meyveli-desertler",
         "categoryName": "meyvəli desertlər",
         "tags": ["Manqo", "Tropik", "Muss"],
@@ -3503,7 +3486,7 @@
         "description": "Şirəli şaftalılar və üstündə yumşaq biskvit xəmiri.",
         "longDescription": "Təzə şaftalı dilimlərinin kərə yağı və şəkərlə bişib karamelizə olunması, üzərinə tökülən xüsusi qabaran xəmirin sobada nar kimi qızarması ilə əldə edilən Amerika deserti.",
         "emoji": "🍑",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "meyveli-desertler",
@@ -3536,7 +3519,7 @@
         "description": "Xırtıldayan beze qabığı, kremli daxil və turşməzə giləmeyvələr.",
         "longDescription": "Xaricdən xırt-xırt, daxildən marşmellou yumşaqlığında olan beze tortası, üzərində zərif qaymaq və təzə qarağat, moruq, çiyələk qarışığı.",
         "emoji": "🦩",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "meyveli-desertler",
@@ -3564,14 +3547,14 @@
         ]
       },
       {
-        "id": "porta galli-krem-karamel",
+        "id": "portagalli-krem-karamel",
         "title": "Portağallı Krem-Karamel",
         "description": "Təzə sıxılmış portağal şirəsi ətirli, karamelli fransız deserti.",
         "longDescription": "Dibində bişmiş karamel sousu, üstündə isə portağal qabığı və şirəsi ilə dadlandırılmış zərif yumurtalı-südlü kütlənin sobada su hamamında bişirilməsi.",
         "emoji": "🍊",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+       
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/portagalli-krem-karamel.jpg",
+        "embedUrl": "https://www.youtube.com/embed/vp0uMj4fwLw",
         "category": "meyveli-desertler",
         "categoryName": "meyvəli desertlər",
         "tags": ["Portağallı", "Karamel", "Fransız"],
@@ -3602,9 +3585,9 @@
         "description": "Bal, qoz və maskarpone pendiri ilə sobada bişmiş təzə əncirlər.",
         "longDescription": "Təzə əncirlərin üzərinə bal, darçın və qoz əlavə edilərək sobada bişirilməsi, yanında zərif maskarpone və ya vanilli dondurma ilə təqdim olunması.",
         "emoji": "🫒",
-        "theme": "amber",
-        "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2",
-        "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+       
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/incirli-qozlu-sobada-desert.jpg",
+        "embedUrl": "https://www.youtube.com/embed/_jbxWDubFTg",
         "category": "meyveli-desertler",
         "categoryName": "meyvəli desertlər",
         "tags": ["Əncirli", "Ballı", "Qozlu"],
@@ -3634,7 +3617,7 @@
         "description": "Yüksək zülal və faydalı yağlarla zəngin, pəhriz saxlayanlar üçün ideal salat.",
         "longDescription": "Qril olunmuş toyuq sinəsi, avokado, təzə qoz və göyərtilərin zeytun yağı və limon sousu ilə qarışdırılmasından hazırlanan doyurucu fitness salatı.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3667,7 +3650,7 @@
         "description": "Səhər məşqindən əvvəl və ya sonra enerji verən az kalorili omlet.",
         "longDescription": "Yulaf əzməsi, yumurta və kəsmiklə hazırlanan, uzun müddət tox tutan və mürəkkəb karbohidratlarla zəngin fitnes səhər yeməyi.",
         "emoji": "🍳",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3699,7 +3682,7 @@
         "description": "Omega-3 və kompleks karbohidrat mənbəyi olan balanslı nahar.",
         "longDescription": "Sobada bişmiş salmon (qızıl balıq), haşlanmış kinoa, buxarda bişmiş brokoli və təzə tərəvəzlərdən ibarət super-faydalı fitness qabı.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3731,7 +3714,7 @@
         "description": "Məşqdən sonra əzələ bərpası üçün sürətli və ləzzətli kokteyl.",
         "longDescription": "Banan, fındıq/fıstıq pastası, protein tozu və südün blenderdə çırpılması ilə hazırlanan dözümlülük və bərpa içkisi.",
         "emoji": "🥤",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3762,7 +3745,7 @@
         "description": "Az yağlı hinduşka əti və təzə ispanaqla sobada bişən fit köftələr.",
         "longDescription": "Yağsız hinduşka qiyməsi, xırda doğranmış ispanaq və sarımsaqla yoğrulan, tavada qızardılmadan sobada bişirilən pəhriz yeməyi.",
         "emoji": "🧆",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3794,7 +3777,7 @@
         "description": "Tavada az yağla bişən, tərkibi zülalla zəngin kəsmik deserti.",
         "longDescription": "Yağsız kəsmik, düyü unu və stiviya/bal ilə hazırlanan, səhər yeməyi üçün əla, yüngül və doyumlu şirniki.",
         "emoji": "🥞",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1506084868230-bb9d95c24759",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3826,7 +3809,7 @@
         "description": "Klassik fitness pəhrizinin ən təmiz və faydalı nahar variantı.",
         "longDescription": "Buxarda və ya öz suyunda bişirilmiş toyuq gövdəsi, qarabaşaq (qreçka) və bol təzə xiyar-pamidor dilimləri.",
         "emoji": "🍗",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3857,7 +3840,7 @@
         "description": "Liflə zəngin, tox tutan və həzmə kömək edən fit desert.",
         "longDescription": "Çia toxumlarının badam südündə şişməsi ilə alınan, üzərinə təzə giləmeyvələr və qoz-fındıq əlavə edilən faydalı desert.",
         "emoji": "🫐",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3888,7 +3871,7 @@
         "description": "Yüksək proteinli, praktiki və sürətli hazırlanan tam buğda wrap.",
         "longDescription": "Konservləşdirilmiş öz suyunda tunas balığı, haşlanmış yumurta və göyərtilərin tam buğda lavaşına bükülməsi ilə alınan fitness rulonu.",
         "emoji": "🌯",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "fitnes",
@@ -3920,7 +3903,7 @@
         "description": "Qış aylarının ən doyumlu, istilədici və ənənəvi səhər yeməyi.",
         "longDescription": "Mal dırnaqları və qarnının uzun saatlar ərzində aşağı odda bişirilməsi ilə hazırlanan, sarımsaq və sirkə ilə təqdim olunan əsl qış yeməyi.",
         "emoji": "🍲",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1547592180-85f173990554",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -3952,7 +3935,7 @@
         "description": "Kuzələrdə sobada və ya kürdədə dəmlənən qoyun əti və quyruqlu piti.",
         "longDescription": "Qoyun əti, noxud, quyruq və zəfəranın gil küpələrdə saatlarla öz suyunda bişirilməsi ilə əldə edilən zəngin qış lezzəti.",
         "emoji": "🏺",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -3985,7 +3968,7 @@
         "description": "Soyuq qış günlərinin vazkeçilməzi: xəmir yarpaqları, qiymə və sarımsaqlı qatıq.",
         "longDescription": "Nazik yayılmış xəmir kəsiklərinin suda qaynadılması, üzərinə kərə yağında qızardılmış qiymə, karamelizə soğan və sarımsaqlı qatıq tökülməsi ilə hazırlanan isti xəmir yeməyi.",
         "emoji": "🥟",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -4019,7 +4002,7 @@
         "description": "Tərəvəzlərin və ətin öz suyunda aşağı odda bişdiyi qış yeməyi.",
         "longDescription": "Qoyun əti, bol pomidor, bibər, soğan və göyərtilərin qazana qat-qat yığılaraq su əlavə edilmədən öz buğunda bişirilməsi.",
         "emoji": "🍲",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1574484284002-952d92456975",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -4052,7 +4035,7 @@
         "description": "Miniatür xəmir bükümləri ilə zəngin, nanəli və sirkəli qış çorbası.",
         "longDescription": "Xırda-xırda bükülmüş qiyməli xəmirlərin bulyonda bişirilməsi, üzərinə quru nanə və sarımsaqlı sirkə gəzdirilərək içilən isti sulu yemək.",
         "emoji": "🥄",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -4085,7 +4068,7 @@
         "description": "Sobada və ya qazanda yavaş bişən, proteinlə zəngin isti lobya.",
         "longDescription": "Quru ağ və ya qırmızı lobyanın dana əti, tomat və soğanla birlikdə qatı sousda bişirilərək hazırlanan doyurucu qış yeməyi.",
         "emoji": "🫘",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -4117,7 +4100,7 @@
         "description": "Qış mövsümünün ən şirin, faydalı və təbii deserti.",
         "longDescription": "Balqabaq dilimlərinin sobada öz şirəsində yumşalana kimi bişirilməsi, üzərinə təbii bal, darçın və bol qoz ləpəsi gəzdirilməsi.",
         "emoji": "🎃",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -4149,7 +4132,7 @@
         "description": "Soyuq qış axşamlarında içinizi isidəcək yumşaq içki.",
         "longDescription": "Salep kökü tozu, süt və şəkərin qatılaşana qədər bişirilməsi, üzərinə bol darçın səpələnərək içilən ənənəvi qış içkisi.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "qis",
@@ -4180,7 +4163,7 @@
         "description": "Zərif yuxa, ağ pendir və cəfəri dolğusu ilə sobada bişən xırtıldayan börek.",
         "longDescription": "Hazır yuxa qatlarının yumurta, süd və yağlı sousla isladılması, ortasına bol ağ pendir və təzə cəfəri qoyularaq sobada qızılı olana qədər bişirilən klasik börek.",
         "emoji": "🥠",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4213,7 +4196,7 @@
         "description": "Ədviyyatlı ət qiyməsi və qoz içi ilə zənginləşdirilmiş spiral börek.",
         "longDescription": "Qovrulmuş qiymə, soğan və qoz ləpəsinin zərif yuxalara bükülərək sobada xırt-xırt qızardılması ilə hazırlanan çox doyurucu börek.",
         "emoji": "🥟",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1541529086526-db283c563270",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4246,7 +4229,7 @@
         "description": "Təzə ispanaq və pəhriz lor pendirinin möhtəşəm uyğunluğu.",
         "longDescription": "Təzə ispanaq yarpaqları və lor pendiri ilə hazırlanan, ilbiz/burma şəklində siniyə düzülən ətirli və faydalı börek.",
         "emoji": "🥐",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4279,7 +4262,7 @@
         "description": "Suda saxlanılaraq puf kimi qabaran, içi yumşaq, çölü xırtıldayan börek.",
         "longDescription": "Büküldükdən sonra soda (qazlı su) dolu qabda saxlanılan və sobaya verilən, gözlənilməz dərəcədə qabaran və yumşaq olan fərqli resept.",
         "emoji": "🥖",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4311,7 +4294,7 @@
         "description": "Ədviyyatlı kartof püresi ilə doldurulub tavada qızardılan pratik börek.",
         "longDescription": "Qaynadılıb soğan və pul bibərlə əzilmiş kartof içliyi ilə üçbucaq yuxalardan hazırlanan və yağda qızardılan xırtıldayan sigara böreyi.",
         "emoji": "🥢",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4343,7 +4326,7 @@
         "description": "Əsl su böreyi dadında, xəmir açmadan tavada hazırlanan tez-bazar resept.",
         "longDescription": "Tikə-tikə doğranmış yuxaların bold südlü-yumurtalı sousla ısladılaraq tavada alt-üst bişirilməsi ilə əldə edilən inanılmaz yumşaq su böreyi.",
         "emoji": "🍳",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4375,7 +4358,7 @@
         "description": "Qat-qat milföy xəmiri arasında bişmiş toyuq və göbələk dolğusu.",
         "longDescription": "Xırtıldayan hazır milföy xəmirinin içərisinə qaymaqlı toyuq və göbələk içliyi qoyularaq sobada bişirilən pratik fransız üslublu börek.",
         "emoji": "🥧",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4407,7 +4390,7 @@
         "description": "Qızardılmış yuxa qatlarının bulyonla isladılıb ət və sarımsaqlı qatıqla təqdimatı.",
         "longDescription": "Sobada qızardılmış thick yuxaların isti ət bulyonu ilə yumşaldılması, aralarına qiymə düzülüb üzərinə sarımsaqlı qatıq və dağ yağ tökülən ənənəvi bəylər yeməyi.",
         "emoji": "🍲",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4439,7 +4422,7 @@
         "description": "Rəndələnmiş təzə qabaq və kəsmiklə hazırlanan yüngül, yay-payız böreyi.",
         "longDescription": "Suyu sıxılmış qabaq rəndəsi, ağ pendir və şüyüdün yuxaya bükülərək gül şəklində sarılması ilə hazırlanan çox yüngül və həzmi asan börek.",
         "emoji": "🫑",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "borek",
@@ -4471,7 +4454,7 @@
         "description": "Ənənəvi üsulla köpüklü və bol ətirli bisirilən meşhur Şərq qəhvəsi.",
         "longDescription": "İncə çəkilmiş qəhvə dənələrinin cezvedə aşağı odda yavaş-yavaş bişirilməsi ilə hazırlanan, qatı köpüklü və zəngin dadlı klasik içki.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/turk-qahvesi-klassik.jpg",
         "embedUrl": "https://www.youtube.com/embed/FrlncMoDfUE",
         "category": "kofe",
@@ -4501,7 +4484,7 @@
         "description": "Yaz-yay aylarının ən sərinləşdirici və ferahlatıcı espresso içkisi.",
         "longDescription": "Buzlu tonik suyunun üzərinə təzə dəmlənmiş tünd espressonun əlavə edilməsi ilə yaradılan sitruslu və qazlı modern qəhvə kokteyli.",
         "emoji": "🧊",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kofe",
@@ -4532,7 +4515,7 @@
         "description": "Karamel sousu, soyuq süd və espressonun mükəmməl balansı.",
         "longDescription": "Bardağın kənarlarına bəzəkli gəzdirilən karamel şərbəti, bol buz, soyuq süd və tünd espressonun birləşməsindən yaradılan şirin soyuq içki.",
         "emoji": "🧋",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kofe",
@@ -4563,7 +4546,7 @@
         "description": "Zərif vanil ətri və qaymaqla çırpılmış ipək kimi məxməri qəhvə.",
         "longDescription": "Espresso, duru qaymaq və vanilli şəkərin birlikdə buxarla çırpılması ilə hazırlanan, zərif və krem teksturalı məşhur içki.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kofe",
@@ -4594,7 +4577,7 @@
         "description": "Evdə pratik şəkildə hazırlana bilən iri çəkim tünd dənəli qəhvə.",
         "longDescription": "İri çəkilmiş qəhvə dənələrinin hot suda yavaş dəmlənməsi ilə hazırlanan, qəhvə dənəsinin öz yağı və aromasını tam qoruyan içki.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kofe",
@@ -4623,7 +4606,7 @@
         "description": "Bulud kimi yüngül və sıx qəhvə köpüyü ilə bəzədilmiş südlü içki.",
         "longDescription": "Həll olunan qəhvə, şəkər və qaynar suyun bərabər nisbətdə çırpılaraq qatı krem halına gətirilməsi və soyuq südün üstünə qoyulması.",
         "emoji": "🥛",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1585515320310-259814833e62",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kofe",
@@ -4655,7 +4638,7 @@
         "description": "İsti tünd qəhvə, qammalı içki və üzərində soyuq çırpılmış qaymaq.",
         "longDescription": "Qış gecələrinin istilədici ənənəvi resepti: isti filter qəhvə, esmer şəkər və qaymağın kontrast yaratdığı xüsusi dad.",
         "emoji": "🥂",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "kofe",
@@ -4685,7 +4668,7 @@
         "description": "Qaymaqlı dondurma üzərinə tökülən isti vuran espresso deserti.",
         "longDescription": "Sürtgəcdən keçirilmiş şokolad və vanilli dondurma topunun üzərinə qaynar espressonun dökülməsi ilə hazırlanan həm desert, həm qəhvə.",
         "emoji": "🍨",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/affogato-al-caffe.jpg",
         "embedUrl": "https://www.youtube.com/embed/q7LMMuwEQ7Q",
         "category": "kofe",
@@ -4714,7 +4697,7 @@
         "description": "Lazanya, sufle və tərəvəz yeməklərinin əsası olan Fransız sousu.",
         "longDescription": "Kərə yağı və unun qovrulub süd ilə açılması, muskat qozu ətri ilə zənginləşdirilməsi ilə hazırlanan ipək kimi məxməri ağ sous.",
         "emoji": "🥛",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/kremli-besamel-sousu.jpg",
         "embedUrl": "https://www.youtube.com/embed/PJFuBu9sLKg",
         "category": "sous",
@@ -4746,7 +4729,7 @@
         "description": "Makaron, pitsa və sendviçlər üçün zəngin İtalyan sousu.",
         "longDescription": "Təzə yaşıl reyhan, fıstıq (və ya qoz), parmezan pendiri və zeytun yağının birgə əzilməsi ilə hazırlanan ətirli klasik sous.",
         "emoji": "🌿",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/tez-bazar-pesto-sousu.jpg",
         "embedUrl": "https://www.youtube.com/embed/gGBQ-Slr4Rk",
         "category": "sous",
@@ -4778,7 +4761,7 @@
         "description": "Ət və toyuq qızartmalarına xüsusi dad verən şirin-turş sous.",
         "longDescription": "Tomat, albalı şirəsi və ya elma sirkəsi, əsmər şəkər və karsa ədviyyatların qaynayıb qatılaşması ilə əldə edilən klassik BBQ sousu.",
         "emoji": "🍖",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/ev-usulu-bbq-sousu.jpg",
         "embedUrl": "https://www.youtube.com/embed/l9bci2qQw1Q",
         "category": "sous",
@@ -4809,7 +4792,7 @@
         "description": "Sezar salatının dadını tamamlayan kremli və sarımsaqlı sos.",
         "longDescription": "Yumurta sarısı, zeytun yağı, ançous (və ya dəniz duzu/soya), sarımsaq və parmezanın çırpılması ilə əldə edilən restoran üslublu resept.",
         "emoji": "🥗",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/mexsusi-sezar-salat-sousu.jpg",
         "embedUrl": "https://www.youtube.com/embed/GefjIrZW5Xg",
         "category": "sous",
@@ -4841,7 +4824,7 @@
         "description": "Xəngəl, düşbərə və qızartmalar üçün əvəzolunmaz milli mətbəx sousu.",
         "longDescription": "Süzmə qatıq, əzilmiş sarımsaq, təzə nane və zeytun yağının harmoniyası ilə hazırlanan, həzmi asanlaşdıran universal qatışım.",
         "emoji": "🧄",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/klassik-sarimsaqli-qatiq-sousu.jpg",
         "embedUrl": "https://www.youtube.com/embed/HRBDfLpobRY",
         "category": "sous",
@@ -4873,7 +4856,7 @@
         "description": "Nuggets, kartof fri və dəniz məhsulları üçün mükəmməl dip sous.",
         "longDescription": "Qırmızı acı bibər, sarımsaq, şəkər və sirkənin nişasta ilə qatılaşdırılması ilə hazırlanan populyar Asiya sousu.",
         "emoji": "🌶️",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/sirin-aci-asiya-sousu.jpg",
         "embedUrl": "https://www.youtube.com/embed/zf8PvXuSHa0",
         "category": "sous",
@@ -4906,7 +4889,7 @@
         "description": "Balıq və qovurma yeməkləri üçün ənənəvi turş-şirin nar sousu.",
         "longDescription": "Təbii nar şirəsinin heç bir qatqı maddəsi olmadan aşağı odda saatlarla qaynadılaraq qatılaşdırılması ilə hazırlanan milli lezzət.",
         "emoji": "pomegranate",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/narserab-ev-usulu.jpg",
         "embedUrl": "https://www.youtube.com/embed/vj81ng87Fo8",
         "category": "sous",
@@ -4936,7 +4919,7 @@
         "description": "Cəmi 3 ərzaqla aparatsız hazırlanan ipək kimi klassik vanilli dondurma.",
         "longDescription": "Qatılaşdırılmış süd (sQuşonka) və yağlı qaymağın çırpılaraq vanillə zənginləşdirilməsi ilə hazırlanan, buz kristalı saxlamayan möhtəşəm dondurma.",
         "emoji": "🍦",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
@@ -4966,7 +4949,7 @@
         "description": "Süd və ya qaymaq ehtiva etməyən, tamamilə təbii tərkibli meyvəli sorbe.",
         "longDescription": "Dondurulmuş təzə çiyələklərin limon suyu və bal ilə blenderdə pürələnməsi ilə əldə edilən sərinləşdirici və az kalorili yay deserti.",
         "emoji": "🍓",
-        "theme": "amber",
+       
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/cilekli-ferahlatici-sorbe.jpg",
         "embedUrl": "https://www.youtube.com/embed/DNImEQ95qU0",
         "category": "dondurma",
@@ -4997,7 +4980,7 @@
         "description": "Əsl şokolad həvəskarları üçün zəngin və tünd kakao dadlı dondurma.",
         "longDescription": "Əridilmiş tünd şokolad, kakao tozu və qaymağın harmoniyası ilə hazırlanan, içərisində iri şokolad tikələri olan kremli dondurma.",
         "emoji": "🍫",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
@@ -5029,7 +5012,7 @@
         "description": "Cəmi 1 ərzaqla hazırlanan, fitnes pəhrizlərinə uyğun təbii dondurma.",
         "longDescription": "Dondurulmuş yetişmiş bananların blenderdə çəkilərək dondurma konsistensiyasına gətirilməsi ilə əldə edilən inanılmaz dərəcədə kremli və sağlam desert.",
         "emoji": "🍌",
-        "theme": "amber",
+       
         "image":  "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/bananli-pese-fit-dondurma.jpg",
         "embedUrl": "https://www.youtube.com/embed/ntRnpVFJdGQ",
         "category": "dondurma",
@@ -5059,7 +5042,7 @@
         "description": "Eleqant yaşıl rəngi və fıstıq ətri ilə İtalyan Gelato üslublu dondurma.",
         "longDescription": "Antep fıstığı əzməsi, süd və qaymaq əsaslı dəmlənmiş krem ilə hazırlanan zəngin fıstıq dadına malik xüsusi dondurma.",
         "emoji": "🫒",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1580915411954-282cb1b0d780",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
@@ -5091,7 +5074,7 @@
         "description": "Zərif duzlu karamel sousu ilə hazırlanan təkrarolunmaz dondurma.",
         "longDescription": "Qaynadılmış qatılaşdırılmış süd və ev yapımı karamelin krem qaymaqla qatışdırılması ilə hazırlanan zəngin dadlı dondurma.",
         "emoji": "🍯",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1560008511-11c63416e52d",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
@@ -5122,7 +5105,7 @@
         "description": "İsti yay günlərində sərinlik bəxş edən sitruslu və nanəli resept.",
         "longDescription": "Təzə limon qabığı rendəsi, limon suyu və təzə nanə yarpaqlarının zərif qaymaqlı kütlə ilə birləşməsindən yaranan ferahladıcı dondurma.",
         "emoji": "🍋",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
@@ -5153,7 +5136,7 @@
         "description": "Yunan qatıq və qarışıq giləmeyvələrlə hazırlanan yüngül, sağlam dondurma.",
         "longDescription": "Süzmə yunan qatığı, bal və dondurulmuş moruq-mərcanı qarışığının blenderdə çəkilməsi ilə hazırlanan pəhriz dostu dondurma.",
         "emoji": "🫐",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1488900128323-21503983a07e",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
@@ -5183,7 +5166,7 @@
         "description": "Qəhvə sevənlər üçün xüsusi aromalı tünd qəhvəli dondurma.",
         "longDescription": "Demlənmiş tünd espresso, qatılaşdırılmış süd və qaymağın mükəmməl balansı ilə hazırlanan ətirli dondurma.",
         "emoji": "☕",
-        "theme": "amber",
+       
         "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
         "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
         "category": "dondurma",
