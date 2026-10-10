@@ -56,6 +56,7 @@
     { "id": "portakal", "name": "Portağal", "emoji": "🍊", "category": "veg" },
     { "id": "limon", "name": "Limon", "emoji": "🍋", "category": "veg" },
     { "id": "alma", "name": "Alma", "emoji": "🍎", "category": "veg" },
+    { "id": "saftali", "name": "Şaftalı", "emoji": "🍑", "category": "veg" },
     { "id": "ciyelek", "name": "Çiyələk", "emoji": "🍓", "category": "veg" },
     { "id": "banan", "name": "Banan", "emoji": "🍌", "category": "veg" },
     { "id": "moruq", "name": "Moruq", "emoji": "🫐", "category": "veg" },
