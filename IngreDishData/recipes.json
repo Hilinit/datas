@@ -298,6 +298,112 @@
         ]
       },
       {
+        "id": "yarpaq-dolmasi",
+        "title": "Klassik Azərbaycan Yarpaq Dolması",
+        "description": "Ətirli üzüm yarpağına bükülmüş, ət və düyü ilə hazırlanan milli incimiz.",
+        "longDescription": "Təzə və ya duza qoyulmuş incə üzüm yarpaqlarının içərisinə qiymə, düyü, soğan və təzə göyərtilərin (nanə, kəklikotu) yığılıb yavaş odda bulyonda bişirilməsi ilə hazırlanan şah əsər yemək.",
+        "emoji": "🍃",
+        
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/yarpaq-dolmasi.jpg",
+        "embedUrl": "https://www.youtube.com/embed/Sveqndy8SgE",
+        "category": "et",
+        "categoryName": "ət yeməkləri",
+        "tags": ["Milli", "Dolma", "Ənənəvi"],
+        "ingredientIds": ["cekilmis-et", "duyu", "sogan", "goyerti", "zeytun-yagi"],
+        "servings": 6,
+        "time": 90,
+        "difficulty": "Çətin",
+        "rating": 5.0,
+        "reviewCount": 420,
+        "ingredientsDetailed": [
+          { "name": "Üzüm yarpağı (təzə və ya duzlu)", "amount": 400, "unit": "q" },
+          { "name": "Qarışıq qiymə (mal və quzu əti)", "amount": 600, "unit": "q" },
+          { "name": "Düyü", "amount": 1, "unit": "stəkan" },
+          { "name": "Soğan", "amount": 2, "unit": "ədəd" },
+          { "name": "Təzə göyərti (keşniş, şüyüd, nanə)", "amount": 1, "unit": "dəstə" },
+          { "name": "Duz, qara istiot, nanə qurusu", "amount": 1, "unit": "dəst" }
+        ],
+        "steps": [
+          "Üzüm yarpaqları duzludursa isti suda 10 dəqiqə saxlayıb yuyun.",
+          "Qiyməni, yuyulmuş düyünü, xırda doğranmış soğanı, göyərtiləri və ədviyyatları qabda yaxşıca yoğurun.",
+          "Hər yarpağın içinə bir çay qaşığı qiymə qoyub səliqəli və sıx şəkildə konvert formasında bükün.",
+          "Qazanın dibinə bir neçə boş yarpaq sərib dolmaları halqavari şəkildə sıx düzün.",
+          "Üzərinə bir boşqab qoyub su və ya bulyon əlavə edin, zəngin odda 1-1.5 saat bişirin."
+        ]
+      },
+      {
+        "id": "kelem-dolmasi",
+        "title": "Kələm Dolması",
+        "description": "Yumşaq kələm yarpaqlarına bükülmüş şirəli qiymə və düyü ləzzəti.",
+        "longDescription": "Haşlanmış kələm yarpaqlarına ədviyyatlı qiymə bükülərək pomidor sousunda xüsusi qazanda yavaş-yavaş bişirilən, qış süfrələrinin vazkeçilməz isti yeməyi.",
+        "emoji": "🥬",
+        
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/kelem-dolmasi.jpg",
+        "embedUrl": "https://www.youtube.com/embed/kI_MAzjyd7Q",
+        "category": "et",
+        "categoryName": "ət yeməkləri",
+        "tags": ["Kələm", "İsti", "Ana yemək"],
+        "ingredientIds": ["kelem", "cekilmis-et", "duyu", "sogan", "pomidor-sousu"],
+        "servings": 6,
+        "time": 80,
+        "difficulty": "Orta",
+        "rating": 4.8,
+        "reviewCount": 310,
+        "ingredientsDetailed": [
+          { "name": "Ağ kələm", "amount": 1, "unit": "ədəd" },
+          { "name": "Qiymə (mal əti)", "amount": 500, "unit": "q" },
+          { "name": "Düyü", "amount": 0.7, "unit": "stəkan" },
+          { "name": "Soğan", "amount": 2, "unit": "ədəd" },
+          { "name": "Pomidor sousu və ya tomat", "amount": 3, "unit": "x.q" },
+          { "name": "Duz, istiot", "amount": 1, "unit": "dəst" }
+        ],
+        "steps": [
+          "Kələmin özəyini çıxarıb bütün halda qaynayan suda yarpaqları yumşalana qədər haşlayın və ayırın.",
+          "Qiymə, yuyulmuş düyü, xırda doğranmış soğan, duz və istiotu qarışdıraraq içlik hazırlayın.",
+          "Kələm yarpaqlarının sərt damarlarını təmizləyin, içlik qoyub zərf formasında bükün.",
+          "Qazana düzülən dolmaların üzərinə pomidor sousu əlavə edilmiş isti su tökün.",
+          "Zəif odda 50-60 dəqiqə qapağı bağlı şəkildə bişirin."
+        ]
+      },
+      {
+        "id": "ucbaci-dolmasi",
+        "title": "Üçbacı Dolması (Badımcan, Bibər, Pomidor)",
+        "description": "Yay aylarının şah əsəri: badımcan, bibər və pomidordan ibarət üçlü dolma.",
+        "longDescription": "İçi oyulmuş təzə badımcan, bolqar bibəri və pomidorun ət qiyməsi ilə doldurularaq xüsusi qazanda və ya sobada ləzzətlə bişirilən əfsanəvi Azərbaycan yeməyi.",
+        "emoji": "🍆",
+       
+        "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/ucbaci-dolmasi.jpg",
+        "embedUrl": "https://www.youtube.com/embed/rIrk8C-yAdw",
+        "category": "et",
+        "categoryName": "ət yeməkləri",
+        "tags": ["Milli", "Üçbacı", "Yay yeməyi"],
+        "ingredientIds": ["badimcan", "biber", "pomidor", "cekilmis-et", "sogan", "goyerti"],
+        "servings": 4,
+        "time": 60,
+        "difficulty": "Orta",
+        "rating": 4.9,
+        "reviewCount": 540,
+        "ingredientsDetailed": [
+          { "name": "Balaca badımcan", "amount": 4, "unit": "ədəd" },
+          { "name": "Bolqar bibəri", "amount": 4, "unit": "ədəd" },
+          { "name": "Bərk pomidor", "amount": 4, "unit": "ədəd" },
+          { "name": "Qiymə", "amount": 400, "unit": "q" },
+          { "name": "Soğan", "amount": 1, "unit": "ədəd" },
+          { "name": "Göyərti və ədviyyatlar", "amount": 1, "unit": "dəst" }
+        ],
+        "steps": [
+          "Badımcanların qabığını zolaqlı soyub duzlu suda acısını çıxarın, bibər və pomidorların içini oyub təmizləyin.",
+          "Qiyməni soğan, xırda doğranmış göyərti, duz və istiotla qarışdırıb tərəvəzlərin içini doldurun.",
+          "Pomidorların oyulmuş qapaqları ilə tərəvəzlərin üzərini örtün.",
+          "Qazana və ya siniyə yığıb üzərinə azca yağ və pomidor sousu əlavə edin.",
+          "Aşağı odda və ya 180 dərəcə sobada 45-50 dəqiqə bişirin."
+        ]
+      }
+
+
+
+
+      {
         "id": "dana-eti-bifshteks",
         "title": "Kərə yağlı dana bifşteksi",
         "description": "Tavada tez bişən, şirəli və yüksək proteinli klassik bifşteks.",
@@ -1899,7 +2005,6 @@
         "description": "Manqal dadında fırında bişmiş göbələk və bolqar bibəri şişləri.",
         "longDescription": "Et məhsullarından istifadə etmədən, zeytun yağı və xüsusi ədviyyatlarla marinadlanmış göbələk və tərəvəzlərin sobada qızardılması ilə əldə edilən ləzzət.",
         "emoji": "🍄",
-        "theme": "stone",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/vegan-tike-kabab.jpg",
         "embedUrl": "https://www.youtube.com/embed/G2-az_1gdtI",
         "category": "veqan",
@@ -1931,7 +2036,6 @@
         "description": "Zeytun yağı və sarımsaqla fırında xırtıldayan brokkoli qarniri.",
         "longDescription": "Brokkolinin sadə və inanılmaz dərəcədə dadlı versiyası. Zeytun yağı və ədviyyatlarla fırınlanan brokkoli həm sağlam, həm də çox ləzzətlidir.",
         "emoji": "🥦",
-        "theme": "green",
         "image": "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/qizardilmis-brokkoli.jpg",
         "embedUrl": "https://www.youtube.com/embed/lte4p46z8xw",
         "category": "veqan",
@@ -1963,7 +2067,6 @@
         "description": "Tamamilə bitki əsaslı, rəngarəng və ədviyyatlı qovurma.",
         "longDescription": "Badımcan, bibər və kartofun bir araya gəldiyi bu qovurma heyvani məhsul olmadan da dolğun dad təcrübəsi yaşadır.",
         "emoji": "🍆",
-        "theme": "leaf",
         "image":  "https://cdn.jsdelivr.net/gh/Hilinit/datas@main/IngreDishData/RecipesImage/veqan-sebze-qovurmasi.jpg",
         "embedUrl": "https://www.youtube.com/embed/ntHGJ1w-lgs",
         "category": "veqan",
